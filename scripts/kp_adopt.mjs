@@ -6,8 +6,9 @@ import path from "node:path";
 const KP_ID = process.argv[2];
 const BLOG = process.argv[3];
 const OLD_KEY = process.argv[4];
+const KIND = process.argv[5] === "series" ? "series" : "film";
 if (!KP_ID || !BLOG || !OLD_KEY) {
-  console.error("usage: node kp_adopt.mjs <kpId> <blog> <oldKey>");
+  console.error("usage: node kp_adopt.mjs <kpId> <blog> <oldKey> [film|series]");
   process.exit(1);
 }
 
@@ -35,7 +36,7 @@ if (hit) {
 }
 
 const store = JSON.parse(await readFile(KP_DESC, "utf8"));
-const rec = store["film:" + KP_ID] || store["series:" + KP_ID] || {};
+const rec = store[(KIND === "series" ? "series:" : "film:") + KP_ID] || store["film:" + KP_ID] || store["series:" + KP_ID] || {};
 if (!newKey) newKey = "kp:" + KP_ID;
 
 const widget = await net.text(`https://rating.kinopoisk.ru/${KP_ID}.xml`);
@@ -45,7 +46,7 @@ const imdb = widget ? (widget.match(/<imdb_rating[^>]*>([\d.]+)</) || [])[1] : n
 const ents = JSON.parse(await readFile(ENTITIES, "utf8"));
 const old = ents[OLD_KEY] || {};
 const entity = {
-  kind: "film",
+  kind: KIND,
   qid: /^Q\d+$/.test(newKey) ? newKey : null,
   kpId: Number(KP_ID),
   titleRu: rec.name || old.titleRu || null,

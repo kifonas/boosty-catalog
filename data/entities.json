@@ -9239,8 +9239,8 @@
    "metacritic": null
   },
   "sources": {
-   "titleRu": "manual",
-   "titleEn": "wiki",
+   "titleRu": "kp",
+   "titleEn": "wikidata",
    "year": "wikidata",
    "desc": "kp",
    "poster": "kp",
@@ -11758,19 +11758,6 @@
   },
   "posterFile": "kp_5509905.0f07a6fd.jpg"
  },
- "film:СЛОМАТЬ ПАЛКА МЯМЛЯ": {
-  "kind": "film",
-  "titleRu": "СЛОМАТЬ ПАЛКА МЯМЛЯ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
  "film:ПРО РАЗЛОМЫ РЕАЛЬНОСТИ": {
   "kind": "film",
   "titleRu": "ПРО РАЗЛОМЫ РЕАЛЬНОСТИ",
@@ -11825,19 +11812,6 @@
    "poster": "steam"
   },
   "posterFile": "Q122383639.7d4c8550.jpg"
- },
- "film:ТЁМНЫЙ РЫЦАРЬ": {
-  "kind": "film",
-  "titleRu": "ТЁМНЫЙ РЫЦАРЬ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
  },
  "game:Shift At Midnight": {
   "kind": "game",
@@ -12681,19 +12655,6 @@
   },
   "sources": {}
  },
- "film:ЧБД С ОЛЕГОМ ШЕПСОМ": {
-  "kind": "film",
-  "titleRu": "ЧБД С ОЛЕГОМ ШЕПСОМ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
  "series:ОСТРОВ. , 2 СЕРИЯ": {
   "kind": "series",
   "titleRu": "ОСТРОВ. , 2 СЕРИЯ",
@@ -12941,19 +12902,6 @@
   },
   "sources": {}
  },
- "film:Сибирский потрошитель": {
-  "kind": "film",
-  "titleRu": "Сибирский потрошитель",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
  "series:ШОУ АНДРЕЯ ПЕТРОВА": {
   "kind": "series",
   "titleRu": "ШОУ АНДРЕЯ ПЕТРОВА",
@@ -13146,19 +13094,6 @@
  "series:ЭКСТРЕМАЛЬНЫЙ СПОСОБ ЭКОНОМИИ. , 2 серия": {
   "kind": "series",
   "titleRu": "ЭКСТРЕМАЛЬНЫЙ СПОСОБ ЭКОНОМИИ. , 2 серия",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "series:Криминальная Россия": {
-  "kind": "series",
-  "titleRu": "Криминальная Россия",
   "titleEn": null,
   "year": null,
   "desc": null,
@@ -13476,19 +13411,6 @@
    "poster": "kp"
   },
   "posterFile": "Q190145.d2255b1b.jpg"
- },
- "film:СКОРО!": {
-  "kind": "film",
-  "titleRu": "СКОРО!",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
  },
  "Q123289966": {
   "kind": "game",
@@ -14413,6 +14335,75 @@
    "metacritic": null
   },
   "posterFile": "Q182212.adfab37a.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "Q136163067": {
+  "kind": "film",
+  "qid": "Q136163067",
+  "kpId": 10355286,
+  "titleRu": "Обсессия",
+  "titleEn": "Obsession",
+  "year": 2025,
+  "desc": "Беар давно влюблён в красавицу Никки, с которой они дружат ещё со школы. Парень опасается, что безнадёжно застрял во френдзоне, и никак не может решиться на признание. Однажды в магазине эзотерики он находит странную безделушку — волшебную палочку, которая может исполнить одно желание. Беар загадывает, чтобы Никки любила его больше всех на свете, и внезапно девушка действительно в него влюбляется. Но счастью парня быстро приходит конец — теперь Никки буквально одержима объектом своего обожания и ведёт себя всё более жутко.",
+  "ratings": {
+   "kinopoisk": 6.92,
+   "imdb": 8.1,
+   "metacritic": null
+  },
+  "posterFile": "Q136163067.62a00bbb.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "kp:4492431": {
+  "kind": "series",
+  "qid": null,
+  "kpId": 4492431,
+  "titleRu": "Что было дальше?",
+  "titleEn": null,
+  "year": 2019,
+  "desc": "Комики слушают истории, а потом пытаются угадать, что было дальше.",
+  "ratings": {
+   "kinopoisk": 7.445,
+   "imdb": null,
+   "metacritic": null
+  },
+  "posterFile": "kp_4492431.0c65a653.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "Q4241035": {
+  "kind": "series",
+  "qid": "Q4241035",
+  "kpId": 568144,
+  "titleRu": "Криминальная Россия",
+  "titleEn": "Criminal Russia",
+  "year": 1995,
+  "desc": "Истории, основанные на подлинных материалах уголовных дел.",
+  "ratings": {
+   "kinopoisk": 8.239,
+   "imdb": 8.1,
+   "metacritic": null
+  },
+  "posterFile": "Q4241035.704871db.jpg",
   "sources": {
    "titleRu": "kp",
    "titleEn": "wikidata",
