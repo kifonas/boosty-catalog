@@ -5039,8 +5039,8 @@
    "metacritic": null
   },
   "sources": {
-   "titleRu": "manual",
-   "titleEn": "wiki",
+   "titleRu": "kp",
+   "titleEn": "wikidata",
    "year": "wikidata",
    "desc": "kp",
    "poster": "kp",
@@ -5189,8 +5189,8 @@
    "metacritic": null
   },
   "sources": {
-   "titleRu": "manual",
-   "titleEn": "wiki",
+   "titleRu": "kp",
+   "titleEn": "wikidata",
    "year": "wikidata",
    "desc": "kp",
    "poster": "kp",
@@ -11364,7 +11364,7 @@
    "metacritic": null
   },
   "sources": {
-   "titleRu": "manual",
+   "titleRu": "kp",
    "titleEn": "wiki",
    "year": "wikidata",
    "desc": "kp",
@@ -11549,32 +11549,6 @@
   "locked": false,
   "posterFile": "Q18157191.1b64d399.jpg"
  },
- "series:ФЕРМА КЛАРКСОНА": {
-  "kind": "series",
-  "titleRu": "ФЕРМА КЛАРКСОНА",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "film:ЗА ГРАНЬЮ. ВРАГИ ПО ОБЩЕЖИТИЮ": {
-  "kind": "film",
-  "titleRu": "ЗА ГРАНЬЮ. ВРАГИ ПО ОБЩЕЖИТИЮ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
  "kp:467943": {
   "kind": "series",
   "kpId": 467943,
@@ -11607,7 +11581,7 @@
    "metacritic": null
   },
   "sources": {
-   "titleRu": "manual",
+   "titleRu": "kp",
    "desc": "kp"
   }
  },
@@ -11758,19 +11732,6 @@
   },
   "posterFile": "kp_5509905.0f07a6fd.jpg"
  },
- "film:ПРО РАЗЛОМЫ РЕАЛЬНОСТИ": {
-  "kind": "film",
-  "titleRu": "ПРО РАЗЛОМЫ РЕАЛЬНОСТИ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
  "kp:11611536": {
   "kind": "series",
   "kpId": 11611536,
@@ -11829,32 +11790,6 @@
   },
   "posterFile": "game_Shift_At_Midnight.761385ce.jpg",
   "fit": "contain"
- },
- "film:О ПОВЕДЕНИИ": {
-  "kind": "film",
-  "titleRu": "О ПОВЕДЕНИИ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "film:МУМИЯ ОДА": {
-  "kind": "film",
-  "titleRu": "МУМИЯ ОДА",
-  "titleEn": null,
-  "year": 1999,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
  },
  "game:Who's At The Door?": {
   "kind": "game",
@@ -11931,19 +11866,6 @@
   },
   "sources": {}
  },
- "series:Слепая": {
-  "kind": "series",
-  "titleRu": "Слепая",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
  "series:СВЕКРОВЬ-СОПЕРНИЦА": {
   "kind": "series",
   "titleRu": "СВЕКРОВЬ-СОПЕРНИЦА",
@@ -11980,19 +11902,6 @@
   },
   "posterFile": "Q832047.8d0418e5.jpg"
  },
- "film:МОРТАЛ КОМБАТ": {
-  "kind": "film",
-  "titleRu": "МОРТАЛ КОМБАТ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
  "Q756572": {
   "kind": "film",
   "qid": "Q756572",
@@ -12015,45 +11924,6 @@
    "poster": "kp"
   },
   "posterFile": "Q756572.70145244.jpg"
- },
- "series:Беременна в 45": {
-  "kind": "series",
-  "titleRu": "Беременна в 45",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "film:ДОРОГАЯ, Я ЗАБИЛ. Утомленный домохозяин": {
-  "kind": "film",
-  "titleRu": "ДОРОГАЯ, Я ЗАБИЛ. Утомленный домохозяин",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "series:Мама в 16": {
-  "kind": "series",
-  "titleRu": "Мама в 16",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
  },
  "Q3480756": {
   "kind": "film",
@@ -12078,58 +11948,6 @@
   },
   "posterFile": "Q3480756.1bc0a4f9.jpg"
  },
- "series:Гадалка": {
-  "kind": "series",
-  "titleRu": "Гадалка",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "series:Четыре свадьбы": {
-  "kind": "series",
-  "titleRu": "Четыре свадьбы",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "series:Один за всех": {
-  "kind": "series",
-  "titleRu": "Один за всех",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "film:ДЕРЕВЕНСКАЯ СВАДЬБА VS МОСКОВСКАЯ СВАДЬБА": {
-  "kind": "film",
-  "titleRu": "ДЕРЕВЕНСКАЯ СВАДЬБА VS МОСКОВСКАЯ СВАДЬБА",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
  "Q858724": {
   "kind": "film",
   "qid": "Q858724",
@@ -12152,19 +11970,6 @@
    "poster": "kp"
   },
   "posterFile": "Q858724.47564870.jpg"
- },
- "film:НЕМНОЖКО РАЗВЕДЕНЫ": {
-  "kind": "film",
-  "titleRu": "НЕМНОЖКО РАЗВЕДЕНЫ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
  },
  "series:МНЕ ИЗМЕНИЛИ. , 1 СЕРИЯ": {
   "kind": "series",
@@ -12202,32 +12007,6 @@
   },
   "posterFile": "Q15732802.27254c02.jpg"
  },
- "series:МАМА В В 16 | , 3 СЕРИЯ": {
-  "kind": "series",
-  "titleRu": "МАМА В В 16 | , 3 СЕРИЯ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "film:СВЕЖИЕ ПИЗДУНЫ 3": {
-  "kind": "film",
-  "titleRu": "СВЕЖИЕ ПИЗДУНЫ 3",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
  "Q628082": {
   "kind": "film",
   "qid": "Q628082",
@@ -12250,32 +12029,6 @@
    "poster": "kp"
   },
   "posterFile": "Q628082.4bea3486.jpg"
- },
- "film:СВЕЖИЕ ПИЗДУНЫ 1": {
-  "kind": "film",
-  "titleRu": "СВЕЖИЕ ПИЗДУНЫ 1",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "film:СВЕЖИЕ ПИЗДУНЫ 2": {
-  "kind": "film",
-  "titleRu": "СВЕЖИЕ ПИЗДУНЫ 2",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
  },
  "Q129440575": {
   "kind": "game",
@@ -12375,19 +12128,6 @@
   },
   "posterFile": "game_Backseat_Drivers.f5e6af88.jpg"
  },
- "series:Порча": {
-  "kind": "series",
-  "titleRu": "Порча",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
  "Q1468980": {
   "kind": "film",
   "qid": "Q1468980",
@@ -12472,19 +12212,6 @@
    "poster": "kp"
   },
   "posterFile": "Q18703032.05610267.jpg"
- },
- "series:Не ври мне": {
-  "kind": "series",
-  "titleRu": "Не ври мне",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
  },
  "game:Unmourned": {
   "kind": "game",
@@ -12580,32 +12307,6 @@
   },
   "posterFile": "game_Haunted_Room__205.787d75c7.jpg"
  },
- "series:ОСТРОВ. , 5 СЕРИЯ": {
-  "kind": "series",
-  "titleRu": "ОСТРОВ. , 5 СЕРИЯ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "series:Звёзды под капельницей": {
-  "kind": "series",
-  "titleRu": "Звёзды под капельницей",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
  "Q927012": {
   "kind": "game",
   "qid": "Q927012",
@@ -12629,101 +12330,10 @@
   },
   "posterFile": "Q927012.7fb6c64e.jpg"
  },
- "series:ОСТРОВ. , 4 СЕРИЯ": {
-  "kind": "series",
-  "titleRu": "ОСТРОВ. , 4 СЕРИЯ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "series:ОСТРОВ. , 3 СЕРИЯ": {
-  "kind": "series",
-  "titleRu": "ОСТРОВ. , 3 СЕРИЯ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "series:ОСТРОВ. , 2 СЕРИЯ": {
-  "kind": "series",
-  "titleRu": "ОСТРОВ. , 2 СЕРИЯ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "series:ОСТРОВ. , 1 СЕРИЯ": {
-  "kind": "series",
-  "titleRu": "ОСТРОВ. , 1 СЕРИЯ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "series:Эксы": {
-  "kind": "series",
-  "titleRu": "Эксы",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "series:Маменькин сынок": {
-  "kind": "series",
-  "titleRu": "Маменькин сынок",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "series:Чадо из ада": {
-  "kind": "series",
-  "titleRu": "Чадо из ада",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
  "game:Сarry The Glass": {
   "kind": "game",
-  "titleRu": "Сarry The Glass",
-  "titleEn": null,
+  "titleRu": "Carry The Glass",
+  "titleEn": "Carry The Glass",
   "year": null,
   "desc": null,
   "ratings": {
@@ -12731,115 +12341,14 @@
    "imdb": null,
    "metacritic": null
   },
-  "sources": {}
- },
- "film:Решаем проблемы папищеков вместе с Максосом": {
-  "kind": "film",
-  "titleRu": "Решаем проблемы папищеков вместе с Максосом",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
+  "sources": {
+   "poster": "steam"
   },
-  "sources": {}
- },
- "film:ЗАВТРА": {
-  "kind": "film",
-  "titleRu": "ЗАВТРА",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "film:АРКЕЙН, 5 CЕРИЙ": {
-  "kind": "film",
-  "titleRu": "АРКЕЙН, 5 CЕРИЙ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
+  "posterFile": "game__arry_The_Glass.d604faaa.jpg"
  },
  "series:НА ДНЕ ЗНАНИЙ": {
   "kind": "series",
   "titleRu": "НА ДНЕ ЗНАНИЙ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "film:ДОКУМЕНТАЛКУ ПРО ПИРАМИДЫ": {
-  "kind": "film",
-  "titleRu": "ДОКУМЕНТАЛКУ ПРО ПИРАМИДЫ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "film:Кооператив Узник": {
-  "kind": "film",
-  "titleRu": "Кооператив Узник",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "film:ОБЗОРЫ НА БЛЕЙДА": {
-  "kind": "film",
-  "titleRu": "ОБЗОРЫ НА БЛЕЙДА",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "film:АДСКАЯ БОЧКА": {
-  "kind": "film",
-  "titleRu": "АДСКАЯ БОЧКА",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "film:ДЕЛО ГОЛОВКИНА. УДАВ": {
-  "kind": "film",
-  "titleRu": "ДЕЛО ГОЛОВКИНА. УДАВ",
   "titleEn": null,
   "year": null,
   "desc": null,
@@ -12889,19 +12398,6 @@
   },
   "posterFile": "Q134992929.5ee9766c.jpg"
  },
- "film:ПРОФЕССИЯ РЕПОРТЕР - БОГ КУЗЯ": {
-  "kind": "film",
-  "titleRu": "ПРОФЕССИЯ РЕПОРТЕР - БОГ КУЗЯ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
  "series:ШОУ АНДРЕЯ ПЕТРОВА": {
   "kind": "series",
   "titleRu": "ШОУ АНДРЕЯ ПЕТРОВА",
@@ -12931,19 +12427,6 @@
   },
   "posterFile": "game_Blasfemia.d2115427.jpg"
  },
- "series:Детективы": {
-  "kind": "series",
-  "titleRu": "Детективы",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
  "Q485610": {
   "kind": "film",
   "qid": "Q485610",
@@ -12966,32 +12449,6 @@
    "poster": "kp"
   },
   "posterFile": "Q485610.965607ec.jpg"
- },
- "film:ПРИВЕТ, ЭЛИТА!": {
-  "kind": "film",
-  "titleRu": "ПРИВЕТ, ЭЛИТА!",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "series:Обмен женами": {
-  "kind": "series",
-  "titleRu": "Обмен женами",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
  },
  "series:МОЯ МАЛЕНЬКАЯ СТРАННОСТЬ. , 2 серия": {
   "kind": "series",
@@ -13042,19 +12499,6 @@
   },
   "sources": {}
  },
- "film:НОВЫЙ РЕВИЗОРРО. ПЕРЕСАДКА КАЛА": {
-  "kind": "film",
-  "titleRu": "НОВЫЙ РЕВИЗОРРО. ПЕРЕСАДКА КАЛА",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
  "Q43295469": {
   "kind": "film",
   "qid": "Q43295469",
@@ -13091,19 +12535,6 @@
   },
   "sources": {}
  },
- "series:ЭКСТРЕМАЛЬНЫЙ СПОСОБ ЭКОНОМИИ. , 2 серия": {
-  "kind": "series",
-  "titleRu": "ЭКСТРЕМАЛЬНЫЙ СПОСОБ ЭКОНОМИИ. , 2 серия",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
  "Q133247101": {
   "kind": "game",
   "qid": "Q133247101",
@@ -13126,19 +12557,6 @@
    "poster": "steam"
   },
   "posterFile": "Q133247101.76139e1d.jpg"
- },
- "series:ЭКСТРЕМАЛЬНЫЙ СПОСОБ ЭКОНОМИИ. , 1 серия": {
-  "kind": "series",
-  "titleRu": "ЭКСТРЕМАЛЬНЫЙ СПОСОБ ЭКОНОМИИ. , 1 серия",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
  },
  "game:Pieces Of Me": {
   "kind": "game",
@@ -13263,32 +12681,6 @@
    "poster": "kp"
   },
   "posterFile": "Q912082.80d929eb.jpg"
- },
- "series:Неравный брак": {
-  "kind": "series",
-  "titleRu": "Неравный брак",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "film:БРЕМЯ ЦЫГАН": {
-  "kind": "film",
-  "titleRu": "БРЕМЯ ЦЫГАН",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
  },
  "game:Игру Про Беременную В 16": {
   "kind": "game",
@@ -13504,19 +12896,6 @@
   },
   "posterFile": "Q527380.04e4d47f.jpg"
  },
- "film:РОЖДЕСТВЕНСКАЯ ПЯТЁРКА": {
-  "kind": "film",
-  "titleRu": "РОЖДЕСТВЕНСКАЯ ПЯТЁРКА",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
  "Q23006268": {
   "kind": "film",
   "qid": "Q23006268",
@@ -13558,7 +12937,7 @@
   "qid": "Q112153189",
   "kpId": null,
   "titleRu": "Зайчик",
-  "titleEn": null,
+  "titleEn": "Tiny Bunny",
   "year": 2021,
   "desc": "«Зайчик» (англ. Tiny Bunny) — компьютерная игра в жанре визуальной новеллы с элементами фолк-хоррора, созданная по мотивам одноимённого рассказа интернет-писателя Дмитрия Мордаса. Игра распространялась эпизодически: выпуск первых частей состоялся 16 апреля 2021 года, а финальный, пятый эпизод вышел 5 декабря 2025 года.",
   "ratings": {
@@ -13572,8 +12951,9 @@
    "year": "wikidata",
    "desc": "wiki",
    "ratings": "kp",
-   "poster": "wiki"
-  }
+   "poster": "steam"
+  },
+  "posterFile": "Q112153189.c15d9815.jpg"
  },
  "Q130383013": {
   "kind": "game",
@@ -13637,32 +13017,6 @@
   },
   "posterFile": "Q3392686.fc9782e6.jpg"
  },
- "film:КАК ИНТЕРНЕТ УБИЛ ПОКОЛЕНИЕ АЛЬФА": {
-  "kind": "film",
-  "titleRu": "КАК ИНТЕРНЕТ УБИЛ ПОКОЛЕНИЕ АЛЬФА",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "film:СЕРДЦА ЗА ЛЮБОВЬ": {
-  "kind": "film",
-  "titleRu": "СЕРДЦА ЗА ЛЮБОВЬ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
  "Q64744044": {
   "kind": "film",
   "qid": "Q64744044",
@@ -13685,19 +13039,6 @@
    "poster": "kp"
   },
   "posterFile": "Q64744044.561708b0.jpg"
- },
- "film:РЕКУРСИВНУЮ РЕАКЦИЮ": {
-  "kind": "film",
-  "titleRu": "РЕКУРСИВНУЮ РЕАКЦИЮ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
  },
  "Q485983": {
   "kind": "film",
@@ -13745,19 +13086,6 @@
   },
   "posterFile": "Q18402.088f71ca.jpg"
  },
- "series:Особняк милф": {
-  "kind": "series",
-  "titleRu": "Особняк милф",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
  "Q647546": {
   "kind": "film",
   "qid": "Q647546",
@@ -13803,19 +13131,6 @@
    "poster": "kp"
   },
   "posterFile": "Q207816.2f9611ec.jpg"
- },
- "film:МУЖСКОЕ ЖЕННСКОЕ: БАБУШКИНО СЕРДЦЕ": {
-  "kind": "film",
-  "titleRu": "МУЖСКОЕ ЖЕННСКОЕ: БАБУШКИНО СЕРДЦЕ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
  },
  "Q588420": {
   "kind": "film",
@@ -13885,97 +13200,6 @@
    "poster": "kp"
   },
   "posterFile": "Q48980.bb4a7610.jpg"
- },
- "film:САМАЯ ЖЕСТКАЯ СЕРИЯ С ДОНАТАМИ": {
-  "kind": "film",
-  "titleRu": "САМАЯ ЖЕСТКАЯ СЕРИЯ С ДОНАТАМИ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "film:МУЖСКОЕ ЖЕНСКОЕ: ИРКА - ЗОЛОТАЯ РУЧКА": {
-  "kind": "film",
-  "titleRu": "МУЖСКОЕ ЖЕНСКОЕ: ИРКА - ЗОЛОТАЯ РУЧКА",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "film:МУЖСКОЕ ЖЕНСКОЕ: НА СКЕЙТЕ ОТ СМЕРТИ": {
-  "kind": "film",
-  "titleRu": "МУЖСКОЕ ЖЕНСКОЕ: НА СКЕЙТЕ ОТ СМЕРТИ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "film:МУЖСКОЕ ЖЕНСКОЕ: НЕ ОТДАМ": {
-  "kind": "film",
-  "titleRu": "МУЖСКОЕ ЖЕНСКОЕ: НЕ ОТДАМ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "film:МУЖСКОЕ ЖЕНСКОЕ: МАУГЛИ": {
-  "kind": "film",
-  "titleRu": "МУЖСКОЕ ЖЕНСКОЕ: МАУГЛИ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "film:НА ПОКЕР!": {
-  "kind": "film",
-  "titleRu": "НА ПОКЕР!",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "film:ОДИН ИЗ ПАПИЩЕКОВ": {
-  "kind": "film",
-  "titleRu": "ОДИН ИЗ ПАПИЩЕКОВ",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
  },
  "Q46232777": {
   "kind": "film",
@@ -14243,84 +13467,6 @@
   },
   "posterFile": "Q1783930.6cba5603.jpg"
  },
- "film:Сердца за любовь?": {
-  "kind": "film",
-  "titleRu": "Сердца за любовь?",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "series:Голые и напуганные": {
-  "kind": "series",
-  "titleRu": "Голые и напуганные",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "series:Сказки на ночь": {
-  "kind": "series",
-  "titleRu": "Сказки на ночь",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "series:Беременна по обману": {
-  "kind": "series",
-  "titleRu": "Беременна по обману",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "series:Фактор страха": {
-  "kind": "series",
-  "titleRu": "Фактор страха",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
- "series:Идущие к чёрту": {
-  "kind": "series",
-  "titleRu": "Идущие к чёрту",
-  "titleEn": null,
-  "year": null,
-  "desc": null,
-  "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
-   "metacritic": null
-  },
-  "sources": {}
- },
  "Q182212": {
   "kind": "film",
   "qid": "Q182212",
@@ -14409,6 +13555,639 @@
    "titleEn": "wikidata",
    "year": "wikidata",
    "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "kp:9324793": {
+  "kind": "series",
+  "qid": null,
+  "kpId": 9324793,
+  "titleRu": "Мама в 16",
+  "titleEn": null,
+  "year": 2023,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": 6.624,
+   "imdb": null,
+   "metacritic": null
+  },
+  "posterFile": "kp_9324793.5114fdcb.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "kp",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "kp:5321253": {
+  "kind": "series",
+  "qid": null,
+  "kpId": 5321253,
+  "titleRu": "Особняк милф",
+  "titleEn": null,
+  "year": null,
+  "desc": "Восемь женщин приезжают в особняк, где им предстоит строить отношения с сыновьями друг друга.",
+  "ratings": {
+   "kinopoisk": 5.958,
+   "imdb": 3.7,
+   "metacritic": null
+  },
+  "posterFile": "kp_5321253.66f54aca.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "kp:9338569": {
+  "kind": "series",
+  "qid": null,
+  "kpId": 9338569,
+  "titleRu": "Четыре свадьбы",
+  "titleEn": null,
+  "year": null,
+  "desc": "Четыре невесты, четыре жениха и всего один медовый месяц, ради которого они готовы пойти на все.",
+  "ratings": {
+   "kinopoisk": 6.779,
+   "imdb": null,
+   "metacritic": null
+  },
+  "posterFile": "kp_9338569.626ee3d1.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "kp:9324824": {
+  "kind": "series",
+  "qid": null,
+  "kpId": 9324824,
+  "titleRu": "Беременна по обману",
+  "titleEn": null,
+  "year": null,
+  "desc": "Истории женщин, которые стали жертвами обмана со стороны женатых мужчин. Они надеялись на крепкие и долгие отношения, их возлюбленные обещали им надежную семью. И вот, забеременев от своего любимого человека, они узнают правду — их мужчина женат и ведет двойную жизнь.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "posterFile": "kp_9324824.2e24b517.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "Q17104499": {
+  "kind": "series",
+  "qid": "Q17104499",
+  "kpId": 782255,
+  "titleRu": "Голые и напуганные",
+  "titleEn": "Naked and Afraid",
+  "year": null,
+  "desc": "Двое людей должны прожить 21 день без еды, воды и одежды в одной из наиболее удаленных точек планеты.",
+  "ratings": {
+   "kinopoisk": 6.736,
+   "imdb": 6.6,
+   "metacritic": null
+  },
+  "posterFile": "Q17104499.0c0b077f.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "kp:675468": {
+  "kind": "series",
+  "qid": null,
+  "kpId": 675468,
+  "titleRu": "Не ври мне",
+  "titleEn": null,
+  "year": null,
+  "desc": "Истории реальных людей, которые либо подозревают кого-то из близких в измене, обмане или даже преступлении, либо находятся под подозрением сами. Герои пытаются выкарабкаться из пропасти жизненных обстоятельств, но есть только один путь: перестать врать.",
+  "ratings": {
+   "kinopoisk": 3.257,
+   "imdb": null,
+   "metacritic": null
+  },
+  "posterFile": "kp_675468.17c2ac39.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "Q107233698": {
+  "kind": "series",
+  "qid": "Q107233698",
+  "kpId": 4475473,
+  "titleRu": "Ферма Кларксона",
+  "titleEn": "Clarkson's Farm",
+  "year": null,
+  "desc": "Джереми Кларксон пробует себя в роли фермера — ему предстоит столкнуться со всеми трудностями сельского хозяйства.",
+  "ratings": {
+   "kinopoisk": 9.143,
+   "imdb": 9,
+   "metacritic": null
+  },
+  "posterFile": "Q107233698.fcdf9692.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "kp:1234923": {
+  "kind": "series",
+  "qid": null,
+  "kpId": 1234923,
+  "titleRu": "Идущие к чёрту",
+  "titleEn": null,
+  "year": null,
+  "desc": "Как из проходимцев лепят звезд экстрасенсорных битв? Как постановки выдают за реалити, а собранную редакторами информацию – за мистические озарения? Как продают подсказки участникам? И как ради рейтинга дурят родственников погибших и пропавших людей? Вся подноготная современных магических телешоу с доказательствами, именами и ценами, а также краткий курс советской лже-экстрасенсорики.",
+  "ratings": {
+   "kinopoisk": 8.682,
+   "imdb": null,
+   "metacritic": null
+  },
+  "posterFile": "kp_1234923.901d75f4.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "kp:9324855": {
+  "kind": "series",
+  "qid": null,
+  "kpId": 9324855,
+  "titleRu": "Чадо из ада",
+  "titleEn": null,
+  "year": null,
+  "desc": "Родители избалованных подростков обращаются за помощью, а их капризных и неуправляемых чад отправляют на 4 дня в обычные, часто многодетные семьи, чтобы мажоры пожили другой жизни, научились новому и изменили свой потребительский подход и взгляды и вышли из эксперимента другими.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "posterFile": "kp_9324855.61c8c1ca.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "Q16967552": {
+  "kind": "series",
+  "qid": "Q16967552",
+  "kpId": 716842,
+  "titleRu": "Обмен женами",
+  "titleEn": "Wife Swap",
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": 4.7,
+   "metacritic": null
+  },
+  "posterFile": null,
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "kp:880658": {
+  "kind": "series",
+  "qid": null,
+  "kpId": 880658,
+  "titleRu": "Слепая",
+  "titleEn": null,
+  "year": null,
+  "desc": "Прабабка ее матери была травницей. Помогала бесплодным. Лечила больных животных. С другой ее прабабкой в детстве случилась беда. Из-за сильного сколиоза у маленькой девочки вырос горб. После этого у нее открылся дар целительства. Когда врачи отказывались лечить, больных посылали к ней.\n\nА ее саму сравнивают с Вангой. Ведь она тоже слепой не родилась. Виной всему стала трагическая случайность. В первом классе мальчишка попал ей в глаза обледенелым куском угля. Вскоре зрение стало стремительно падать. Лекарства не помогали. Врачи разводили руками, не в силах помочь. Когда она практически ослепла, это и произошло. Она увидела людей, но по-другому.\n\nОна не очень любит говорить о себе или о том, кто и зачем к ней обращается. Живет уединенно, в глуши. Но тех, кто приходит – принимает. Ведь знает, когда у человека что-то не так, потому что видит – видит не его одежду или прическу, а видит его судьбу.",
+  "ratings": {
+   "kinopoisk": 4.901,
+   "imdb": 3.8,
+   "metacritic": null
+  },
+  "posterFile": "kp_880658.d825ab66.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "kp:5965516": {
+  "kind": "series",
+  "qid": null,
+  "kpId": 5965516,
+  "titleRu": "Один за всех",
+  "titleEn": null,
+  "year": null,
+  "desc": "После долгих лет разлуки с отцом, бывшим полковником полиции, который неожиданно пропал, Илья Аверьянов возвращается в родной городок Вогжаны. Выяснятся, что отец погиб. Илья уверен, что это был не несчастный случай, но доказать свою правоту не может: город погряз в коррупции и преступности, а он со своей правдой и справедливостью только мешает местной власти. Мэр Вогжан Губарев оказывается втянут в преступный сговор по обороту запрещённых веществ и торговле оружием. Между ним и его братом — бандитом по прозвищу Губан, который убеждён, что власть в городе принадлежит ему, — разгорается борьба за авторитет и влияние, от которой неизбежно страдают местные жители.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "posterFile": null,
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "kp:14358835": {
+  "kind": "series",
+  "qid": null,
+  "kpId": 14358835,
+  "titleRu": "Звёзды под капельницей",
+  "titleEn": null,
+  "year": null,
+  "desc": "Звёздам шоу-бизнеса нужно отказаться от вредных привычек, чтобы вернуть нормальную жизнь. Анастасия Волочкова, Никита Джигурда, Рома Жёлудь и другие отправляются в звёздный рехаб, чтобы побороть зависимость. Под руководством нарколога Василия Шурова они проходят курс реабилитации и становятся на путь выздоровления.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "posterFile": null,
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "kp:1445076": {
+  "kind": "series",
+  "qid": null,
+  "kpId": 1445076,
+  "titleRu": "Остров",
+  "titleEn": null,
+  "year": null,
+  "desc": "В наказание сосланная на Чеджу дочь богатой семьи начинает работать там учительницей в школе, когда вдруг сталкивается со злобными призраками и загадочным охотником на них.",
+  "ratings": {
+   "kinopoisk": 7.367,
+   "imdb": 7,
+   "metacritic": null
+  },
+  "posterFile": "kp_1445076.43536b5c.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "kp:4475557": {
+  "kind": "series",
+  "qid": null,
+  "kpId": 4475557,
+  "titleRu": "Гадалка",
+  "titleEn": null,
+  "year": null,
+  "desc": "Катя работает медсестрой в областном городке. Девушка обладает даром ясновидения, но считает свои мистические способности психическим отклонением. Волею судьбы она переезжает в столицу и начинает работать в полицейском участке. Там она осознает, что ее дар — вовсе не недостаток, и с его помощью находит разгадки в самых запутанных криминальных делах. Приняв себя, Катя познает и мир настоящей любви.",
+  "ratings": {
+   "kinopoisk": 6.561,
+   "imdb": null,
+   "metacritic": null
+  },
+  "posterFile": "kp_4475557.e0903f31.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "kp:5172582": {
+  "kind": "series",
+  "qid": null,
+  "kpId": 5172582,
+  "titleRu": "Фактор страха",
+  "titleEn": null,
+  "year": null,
+  "desc": "Звездные участники проходят сложнейшие испытания в парах. Им придется попрощаться с давними страхами, чтобы выиграть денежный приз.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "posterFile": "kp_5172582.1fe22037.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "kp:711719": {
+  "kind": "series",
+  "qid": null,
+  "kpId": 711719,
+  "titleRu": "Неравный брак",
+  "titleEn": null,
+  "year": null,
+  "desc": "Двадцатилетняя Алиса влюблена и счастлива: ее любимый — Егор, восходящая звезда боев без правил, — только что прямо на ринге сделал ей предложение. Но счастье Алисы оказывается недолгим. Ради отца, задолжавшего крупную сумму денег бандитам, Алиса вынуждена выйти замуж по расчету. Ее муж, успешный пятидесятилетний бизнесмен Султан Бакоев, влюблен в Алису и готов ради нее свернуть горы. Только это не нужно самой Алисе. Она ненавидит мужа и не замечает, что ей достался очень честный, умный и достойный уважения мужчина...",
+  "ratings": {
+   "kinopoisk": 3.852,
+   "imdb": null,
+   "metacritic": null
+  },
+  "posterFile": "kp_711719.9fd3b869.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "kp:1272301": {
+  "kind": "series",
+  "qid": null,
+  "kpId": 1272301,
+  "titleRu": "Маменькин сынок",
+  "titleEn": null,
+  "year": null,
+  "desc": "Взявшись за довольно простое дело об убийстве мужчины, молодой следователь Андрей Гаврилов натыкается на целую цепочку смертей, на первый взгляд ничем не связанных между собой людей. Перед Андреем стоит задача разгадать замыслы убийцы и не дать ему совершить новые преступления.",
+  "ratings": {
+   "kinopoisk": 6.134,
+   "imdb": null,
+   "metacritic": null
+  },
+  "posterFile": "kp_1272301.37d63020.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "kp:4505790": {
+  "kind": "series",
+  "qid": null,
+  "kpId": 4505790,
+  "titleRu": "Порча",
+  "titleEn": null,
+  "year": null,
+  "desc": "Мы часто задаемся вопросом: почему все валится из рук, преследуют несчастья, болезни и невезение в любви и браке? Ответ на этот вопрос может быть простым, но зловещим: на вас навели порчу. Герои обращаются к Тамаре — женщине, обладающей сверхъестественными способностями. Она может увидеть, есть ли на человеке отметка тьмы, и помочь отвести беду.",
+  "ratings": {
+   "kinopoisk": 7.355,
+   "imdb": null,
+   "metacritic": null
+  },
+  "posterFile": "kp_4505790.9756a709.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "kp:11611503": {
+  "kind": "series",
+  "qid": null,
+  "kpId": 11611503,
+  "titleRu": "Беременна в 45",
+  "titleEn": null,
+  "year": null,
+  "desc": "Реалити-шоу о пути женщин от 45 лет и старше, которые решили стать мамами. С какими реальными проблемами они столкнутся, а что — просто стереотипы и предубеждения?",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "posterFile": "kp_11611503.000ed164.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "Q5422318": {
+  "kind": "series",
+  "qid": "Q5422318",
+  "kpId": 795793,
+  "titleRu": "Экстремальные способы экономии",
+  "titleEn": "Extreme Cheapskates",
+  "year": null,
+  "desc": "Просто невероятно, до чего способны дойти люди, чтобы сэкономить пару долларов! Вы познакомитесь с людьми, которые всё время ищут способы на чём-то сэкономить. В условиях финансового кризиса и вправду каждая копейка на счету. Но заваривать чай по два раза — просто «цветочки» по сравнению с тем, что изобретают эти невероятные скряги.",
+  "ratings": {
+   "kinopoisk": 5.915,
+   "imdb": 5.7,
+   "metacritic": null
+  },
+  "posterFile": null,
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "kp:4972574": {
+  "kind": "series",
+  "qid": null,
+  "kpId": 4972574,
+  "titleRu": "Эксы",
+  "titleEn": null,
+  "year": null,
+  "desc": "10 пар, которые ранее расстались, заселяются в дом, чтобы проверить свои чувства. Парни и девушки живут раздельно. Раз в неделю им предстоит пройти два индивидуальных и одно общее испытание. В конце каждой недели одна пара выбывает.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "posterFile": "kp_4972574.b2c5b6a0.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "Q85518571": {
+  "kind": "series",
+  "qid": "Q85518571",
+  "kpId": 4445150,
+  "titleRu": "Аркейн",
+  "titleEn": "Arcane",
+  "year": null,
+  "desc": "История разворачивается в утопическом краю Пилтовер и жестоком подземном мире Заун и рассказывает о становлении двух легендарных чемпионов Лиги и о той силе, что разведёт их по разные стороны баррикад.",
+  "ratings": {
+   "kinopoisk": 8.741,
+   "imdb": 9,
+   "metacritic": null
+  },
+  "posterFile": "Q85518571.15218162.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "Q4159312": {
+  "kind": "series",
+  "qid": "Q4159312",
+  "kpId": 414948,
+  "titleRu": "Детективы",
+  "titleEn": null,
+  "year": null,
+  "desc": "«Детективы» – так называется частное сыскное агентство. Клиенты обращаются в него тогда, когда надо буквально «докопаться» до правды, когда нужен не просто правовой совет, но активная помощь. И когда надежды или желания обращаться в милицию по вполне понятным причинам быть не может. \n\nВ интересах клиентов сотрудники «Детективов» разыскивают свидетелей, выезжают на место событий, с помощью современной техники добывают необходимые доказательства. \n\nНапряженное молниеносное расследование всякий раз приводит к результатам, неожиданным для клиентов, самих сыщиков и зрителей.",
+  "ratings": {
+   "kinopoisk": 3.129,
+   "imdb": 3.4,
+   "metacritic": null
+  },
+  "posterFile": "Q4159312.a1be741a.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "kp:988873": {
+  "kind": "film",
+  "qid": null,
+  "kpId": 988873,
+  "titleRu": "Бремя цыган",
+  "titleEn": null,
+  "year": null,
+  "desc": "Фильм о жизни цыганского народа, самого закрытого этноса на сегодняшний день. Влиятельные воровские кланы, бароны и наркобароны, ранние браки, артисты на сцене и в жизни, антицыганские бунты в Европе и цыганские бунты в России – вся правда о проблемах, горестях и радостях современной цыганской общины.",
+  "ratings": {
+   "kinopoisk": 8.338,
+   "imdb": null,
+   "metacritic": null
+  },
+  "posterFile": null,
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "Q2222779": {
+  "kind": "film",
+  "qid": "Q2222779",
+  "kpId": 432619,
+  "titleRu": "Рождественская пятерка",
+  "titleEn": "Santa Buddies",
+  "year": 2009,
+  "desc": "Неповторимая история о волшебной Рождественской Сосульке, которая в канун Рождества начинает таять, и о том, как отважные говорящие щенки будут делать все возможное, чтобы сохранить Рождество!",
+  "ratings": {
+   "kinopoisk": 6.359,
+   "imdb": 4.6,
+   "metacritic": null
+  },
+  "posterFile": "Q2222779.5aa8af51.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "film:Сердца за любовь": {
+  "kind": "film",
+  "titleRu": "Сердца за любовь",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "kp:13547429": {
+  "kind": "series",
+  "qid": null,
+  "kpId": 13547429,
+  "titleRu": "Новый Ревизорро",
+  "titleEn": null,
+  "year": 2025,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": 6.272,
+   "imdb": null,
+   "metacritic": null
+  },
+  "posterFile": "kp_13547429.785bacaa.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "desc": "kp",
+   "year": "kp",
    "poster": "kp",
    "ratings": "kp"
   }
