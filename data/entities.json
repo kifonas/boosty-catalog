@@ -14043,13 +14043,13 @@
    "imdb": null,
    "metacritic": null
   },
-  "posterFile": null,
+  "posterFile": "kp_988873.d001970d.jpg",
   "sources": {
    "titleRu": "kp",
    "titleEn": "wikidata",
    "year": "wikidata",
    "desc": "kp",
-   "poster": "kp",
+   "poster": "manual",
    "ratings": "kp"
   }
  },
