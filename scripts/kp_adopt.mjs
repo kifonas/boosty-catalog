@@ -18,12 +18,20 @@ const wd = await net.json(
 );
 const hit = wd?.query?.search?.[0]?.title;
 let newKey = null;
+let wdEn = null;
+let wdYear = null;
 if (hit) {
   const ent = await net.json(
     `https://www.wikidata.org/w/api.php?action=wbgetentities&ids=${hit}&props=labels|claims|sitelinks&languages=ru|en&sitefilter=ruwiki|enwiki&format=json`
   );
   const e = ent?.entities?.[hit];
-  if (e) newKey = hit;
+  if (e) {
+    newKey = hit;
+    wdEn = e.labels?.en?.value || null;
+    const times = (e.claims?.P577 || []).map((c) => c.mainsnak?.datavalue?.value?.time).filter(Boolean);
+    const years = times.map((t) => Number(String(t).slice(1, 5))).filter((y) => y > 1800);
+    if (years.length) wdYear = Math.min(...years);
+  }
 }
 
 const store = JSON.parse(await readFile(KP_DESC, "utf8"));
@@ -41,8 +49,8 @@ const entity = {
   qid: /^Q\d+$/.test(newKey) ? newKey : null,
   kpId: Number(KP_ID),
   titleRu: rec.name || old.titleRu || null,
-  titleEn: old.titleEn || null,
-  year: old.year || null,
+  titleEn: wdEn || old.titleEn || null,
+  year: wdYear || old.year || null,
   desc: rec.desc || old.desc || null,
   ratings: { kinopoisk: kp ? Number(kp) : null, imdb: imdb ? Number(imdb) : null, metacritic: null },
   posterFile: old.posterFile || null,
