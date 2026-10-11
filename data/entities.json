@@ -12167,29 +12167,6 @@
   },
   "posterFile": "Q52199803.414c8a01.jpg"
  },
- "Q18703032": {
-  "kind": "film",
-  "qid": "Q18703032",
-  "kpId": 798068,
-  "titleRu": "Комната",
-  "titleEn": "Room",
-  "year": 2015,
-  "desc": "Джой похитил маньяк, когда она была ещё подростком. С тех пор она живет в крохотной комнатке вместе с 5-летним сыном Джеком. Мальчик ничего кроме этой комнаты не видел — он в ней родился и ни разу её не покидал. Все эти годы Джой вынашивала план побега, и вот у нее появился шанс.",
-  "ratings": {
-   "kinopoisk": 7.62,
-   "imdb": 8.1,
-   "metacritic": 86
-  },
-  "sources": {
-   "titleRu": "kp",
-   "titleEn": "wiki",
-   "year": "wikidata",
-   "desc": "kp",
-   "ratings": "kp",
-   "poster": "kp"
-  },
-  "posterFile": "Q18703032.05610267.jpg"
- },
  "game:Unmourned": {
   "kind": "game",
   "titleRu": null,
@@ -14229,6 +14206,29 @@
    "metacritic": null
   },
   "posterFile": "Q29016694.76d885d5.jpg",
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wikidata",
+   "year": "wikidata",
+   "desc": "kp",
+   "poster": "kp",
+   "ratings": "kp"
+  }
+ },
+ "Q533383": {
+  "kind": "film",
+  "qid": "Q533383",
+  "kpId": 38653,
+  "titleRu": "Комната",
+  "titleEn": "The Room",
+  "year": 2003,
+  "desc": "У Джонни есть всё — отличная работа, квартира в Сан-Франциско, лучший друг Марк и невеста Лиза, и близится его день рождения. Но все меняется, когда Марк и Лиза заводят роман…",
+  "ratings": {
+   "kinopoisk": 4.836,
+   "imdb": 3.6,
+   "metacritic": null
+  },
+  "posterFile": "Q533383.01a93ca1.jpg",
   "sources": {
    "titleRu": "kp",
    "titleEn": "wikidata",
