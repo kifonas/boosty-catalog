@@ -35,6 +35,13 @@ export const BLOG_META = {
     tagline:
       'Фильмы, сериалы и игры из <a href="https://boosty.to/kuzma671games" target="_blank" rel="noopener">Boosty</a> — с постерами, оценками и ссылками на записи просмотров.',
   },
+  snailkick: {
+    title: "Каталог Boosty SNAILKICK",
+    brand: "Каталог Boosty SNAILKICK",
+    desc: "Каталог фильмов, сериалов и игр из Boosty-блога SNAILKICK: постеры, оценки Кинопоиск/IMDb и ссылки на записи.",
+    tagline:
+      'Фильмы, сериалы и игры из <a href="https://boosty.to/snailkick" target="_blank" rel="noopener">Boosty</a> — с постерами, оценками и ссылками на записи просмотров.',
+  },
 };
 
 export const META = BLOG_META[BLOG] || {

@@ -1,6 +1,8 @@
 import { spawnSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
+import { readdir } from "node:fs/promises";
+import { BLOGS_DIR } from "./lib/config.mjs";
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 const run = (file, blog) => {
@@ -12,5 +14,9 @@ const run = (file, blog) => {
 };
 
 run("assets.mjs");
-for (const blog of ["antonpower", "kuzma671games"]) run("build_site.mjs", blog);
+const blogs = (await readdir(BLOGS_DIR, { withFileTypes: true }))
+  .filter((d) => d.isDirectory())
+  .map((d) => d.name)
+  .sort();
+for (const blog of blogs) run("build_site.mjs", blog);
 console.log("make: done");

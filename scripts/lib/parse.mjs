@@ -190,6 +190,140 @@ function parseKuzma(post) {
   return { ...base, kind: "film", titleRu: t || raw, titleEn: null, year: yearM ? Number(yearM[0]) : null, reason: "kuzma-film" };
 }
 
+const SNAIL_KP = [
+  { re: /необычайн[а-яё]*\s+сильн[а-яё]*\s+сказк/, name: "Необычайно сильные сказки", kpId: 5509905 },
+  { re: /обычн[а-яё]*\s+сказк/, name: "Обычные сказки", kpId: 467943 },
+  { re: /(^|[^а-яё])днк([^а-яё]|$)/, name: "ДНК", kpId: 10180510 },
+  { re: /пусть\s+говорят/, name: "Пусть говорят", kpId: 928982 },
+  { re: /ждул/, name: "Ждули", kpId: 11611536 },
+  { re: /кое[\s-]?что\s+в\s*1/, name: "Кое-что в 1 и 6", kpId: 5208553 },
+  { re: /(^|[^а-яё])(мж|mj)([^а-яё]|$)|мужское\s*(и|\/)\s*женское|(^|[^а-яё])м\s+и\s+ж([^а-яё]|$)/, name: "MJ или МЖ", kpId: 5451177 },
+];
+
+const SNAIL_SERIES = [
+  { re: /мама\s+в\s+16/, name: "Мама в 16" },
+  { re: /беремен[а-яё]*\s+в\s+16/, name: "Беременна в 16" },
+  { re: /беремен[а-яё]*\s+в\s+45/, name: "Беременна в 45" },
+  { re: /четыре\s+свадьбы/, name: "Четыре свадьбы" },
+  { re: /гадалк/, name: "Гадалка" },
+  { re: /порча/, name: "Порча" },
+  { re: /не\s+ври\s+мне/, name: "Не ври мне" },
+  { re: /криминальная\s+россия/, name: "Криминальная Россия" },
+  { re: /остров\b/, name: "Остров" },
+  { re: /чадо\s+из\s+ада/, name: "Чадо из ада" },
+  { re: /маменькин\s+сынок/, name: "Маменькин сынок" },
+  { re: /особняк\s+милф/, name: "Особняк милф" },
+  { re: /(^|[^а-яё])экс[ыа]([^а-яё]|$)/, name: "Эксы" },
+  { re: /зв[её]зды\s+под\s+капельницей/, name: "Звёзды под капельницей" },
+  { re: /слепая/, name: "Слепая" },
+  { re: /детективы/, name: "Детективы" },
+  { re: /один\s+за\s+всех/, name: "Один за всех" },
+  { re: /неравный\s+брак/, name: "Неравный брак" },
+  { re: /обмен\s+женами/, name: "Обмен женами" },
+  { re: /супермама/, name: "Супермама" },
+  { re: /вагитна/, name: "Вагитна у 16" },
+  { re: /сказк[аиу]?\s+на\s+ноч/, name: "Сказки на ночь" },
+  { re: /голые\s+и\s+напуганные/, name: "Голые и напуганные" },
+  { re: /беремен[а-яё]*\s+по\s+обману/, name: "Беременна по обману" },
+  { re: /фактор\s+страха/, name: "Фактор страха" },
+  { re: /идущие\s+к\s+ч[её]рту/, name: "Идущие к чёрту" },
+];
+
+const SNAIL_OTHER = [
+  /^с\s+наступающим/, /^с\s+праздником/, /^с\s+пасхой/, /^завтра\b/, /^скоро\b/,
+  /^привет\b/, /^мне\s+\d+/, /болит\s+ушко/, /текстовые\s+посты/, /уровни\s+подписок/,
+  /обновление\s+суммы/, /отпуск/, /я\s+вернулся/, /приболел/, /пиздунов/, /вайбовости/,
+  /финал\s+страшных\s+сказок/, /боишься\s+сказок/, /^теги$/, /что\s+не\s+устраивает/,
+  /^дед\s+запустил\s+стрим/, /^топ\s+10/, /^как\s+мы\s+анимэ/, /^всем\s+кто/,
+  /^ну\s+что,\s+эксклюзив/, /^обновление$/, /джонни\s+депп/, /озвучка\s+snailkick/,
+  /так\s+выглядит\s+озвученный/, /^я\s+немного/, /^контент\s+во\s+время/,
+  /не\s+работает/, /озвуч/, /^продолжаем\b/, /^объявля/, /^анонс/, /^итоги/,
+  /^розыгрыш/, /^важные\s+новости/,
+  /^скоро\b/, /будет\s+только\s+стрим/, /^аукцион$/, /^аук\b/, /^расписание/,
+];
+
+const stripSnailPrefixes = (t) => {
+  let s = String(t || "").trim();
+  const pat = /^(?:[Сс][Мм][Оо][Тт][Рр][Ии][Мм][Аа]?[Ее]?[Мм]?|[Нн]ачинаем|[Ии]граем(?:\s+с\s+[^\s"]+)?(?:\s+в)?|[Ии]граю(?:\s+в)?|[Сс]мотрим)(?:[:\s\-–—]+|$)/i;
+  for (let i = 0; i < 3 && s; i++) {
+    const n = s.replace(pat, "");
+    if (n === s) break;
+    s = n.trim();
+  }
+  return s;
+};
+
+function titleCase(s) {
+  return clean(String(s || "")).replace(/([A-Za-zА-Яа-яЁё])([A-Za-zА-Яа-яЁё'’]*)/g,
+    (_, a, b) => a.toUpperCase() + b.toLowerCase());
+}
+
+function parseSnailkick(post) {
+  const base = { postId: post.id, rawTitle: post.title || "", date: post.publishTime };
+  const raw = clean(String(post.title || "").replace(/[«»“”„]/g, '"'));
+  if (!raw) return { ...base, kind: "other", reason: "no-title" };
+  const low = raw.toLowerCase();
+
+  if (SNAIL_OTHER.some((re) => re.test(low))) return { ...base, kind: "other", reason: "marker" };
+
+  // ---- games ----
+  const gameM = raw.match(/играем(?:\s+с\s+[^\s"]+)?(?:\s+в)?\s*[:\-–—]?\s*(.+)$/i) || raw.match(/играю(?:\s+в)?\s*[:\-–—]?\s*(.+)$/i);
+  if (gameM) {
+    let name = gameM[1].replace(/"[^"]*"/g, (m) => m).trim();
+    const q = name.match(/"([^"]+)"/);
+    name = q ? q[1] : stripSnailPrefixes(name);
+    name = clean(name.replace(/^(?:в|и|ч\.?|часть)\s+/i, "").replace(/\s+(?:часть|ч\.?)\s*\d+.*$/i, "").replace(/\s+\d+\s*ч\.?$/i, "").replace(/\s+с\s+\w+$/i, ""));
+    if (name) return { ...base, kind: "game", gameName: titleCase(name), reason: "game" };
+  }
+
+  // ---- known shows with Kinopoisk id ----
+  const kpShow = SNAIL_KP.find((s) => s.re.test(low));
+  if (kpShow) return { ...base, kind: "series", seriesName: kpShow.name, kpId: kpShow.kpId, reason: "kp-show" };
+
+  // ---- other recurring shows ----
+  const show = SNAIL_SERIES.find((s) => s.re.test(low));
+  if (show) return { ...base, kind: "series", seriesName: show.name, reason: "show" };
+
+  const quotes = [...raw.matchAll(/"([^"]+)"/g)].map((m) => clean(m[1]));
+  const inside = quotes.join(" ");
+  const epRe = /(\d{1,2}\s*сезон|\d{1,2}\s*сери[яйю]|\d{1,2}\s*выпуск|выпуск\s*\d{1,2}|часть\s*\d|серия\s*\d|\d{1,2}\s*часть|финал)/i;
+  if (epRe.test(raw)) {
+    let name = (quotes.find((q) => epRe.test(q)) || inside || stripSnailPrefixes(raw))
+      .replace(epRe, " ")
+      .replace(/[|,.\-–—+\s]+$/g, "")
+      .replace(/\s*\d{1,2}\s*$/g, "");
+    name = clean(name.replace(/^[|,.\-–—+\s]+/g, ""));
+    if (!name) name = clean(stripSnailPrefixes(raw).replace(epRe, " "));
+    if (name) return { ...base, kind: "series", seriesName: name, reason: "episode" };
+  }
+
+  // ---- films ----
+  let t = stripSnailPrefixes(raw);
+  const yearM = t.match(/\b(19\d{2}|20[0-2]\d)\b/);
+  if (yearM) t = t.replace(/\b(19\d{2}|20[0-2]\d)\b\s*(?:г\.?)?/gi, " ");
+  const qm = t.match(/"([^"]+)"/);
+  let name = qm ? clean(qm[1]) : clean(t);
+  name = clean(name
+    .replace(/\b(?:с|со)\s+(?:донатами|аукцион\w*|ауком)\b.*$/i, "")
+    .replace(/\b(?:и|плюс)\s+(?:аукцион\w*|аук)\b.*$/i, "")
+    .replace(/\+\s*(?:аукцион|аук).*$/i, "")
+    .replace(/\b(?:и\s+это\s+прекрасно|и\s+маленько\s+хохочем|и\s+пугаемся|и\s+хохочем)\b.*$/i, "")
+    .replace(/\s*\|.*$/, "")
+    .replace(/\s*(?:серия|выпуск)\s*\d+.*$/i, ""));
+  if (!name) return { ...base, kind: "other", reason: "no-signal" };
+  const hasCyrName = hasCyr(name);
+  return {
+    ...base, kind: "film",
+    titleRu: hasCyrName ? name : null,
+    titleEn: hasCyrName ? null : name,
+    year: yearM ? Number(yearM[0]) : null,
+    quoted: Boolean(qm),
+    reason: "film",
+  };
+}
+
 export function parsePost(post) {
-  return BLOG === "kuzma671games" ? parseKuzma(post) : parseAntonpower(post);
+  if (BLOG === "kuzma671games") return parseKuzma(post);
+  if (BLOG === "snailkick") return parseSnailkick(post);
+  return parseAntonpower(post);
 }

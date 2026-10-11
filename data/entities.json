@@ -957,7 +957,7 @@
   "titleEn": "Scooby-Doo 2: Monsters Unleashed",
   "year": 2004,
   "kpId": 6186,
-  "desc": "На этот раз Скуби-Ду и его приятелям предстоит сразиться с замаскированным злодеем, который замышляет захватить город Кулсвиль, наводнив его привидениями.\nЭти существа, появляющиеся на свет благодаря специальной машине по генерированию монстров, должны устроить в городке настоящий переполох. Но благодаря усилиям «Тайной корпорации» Кулсвиль будет непременно спасен! ",
+  "desc": "На этот раз Скуби-Ду и его приятелям предстоит сразиться с замаскированным злодеем, который замышляет захватить город Кулсвиль, наводнив его привидениями.\nЭти существа, появляющиеся на свет благодаря специальной машине по генерированию монстров, должны устроить в городке настоящий переполох. Но благодаря усилиям «Тайной корпорации» Кулсвиль будет непременно спасен!",
   "ratings": {
    "kinopoisk": 5.83,
    "imdb": 5.3,
@@ -5157,7 +5157,7 @@
   "titleEn": "Waterworld",
   "year": 1995,
   "kpId": 8165,
-  "desc": "В далеком будущем полярные снега растаяли, покрыв практически всю Землю водой. И хотя ходят легенды, что где-то остался кусочек пригодной для жизни суши, её до сих пор никто не смог найти. \n\nНа Атолл приплывает Моряк. Он хочет продать землю, добытую при нырянии, но его принимают за шпиона «курильщиков» – самых опасных бандитов Водного мира. При помощи девушки Хелен и маленькой девочки Энолы ему удается избежать казни. Взамен Хелен просит отвезти их на сушу.  ",
+  "desc": "В далеком будущем полярные снега растаяли, покрыв практически всю Землю водой. И хотя ходят легенды, что где-то остался кусочек пригодной для жизни суши, её до сих пор никто не смог найти. \n\nНа Атолл приплывает Моряк. Он хочет продать землю, добытую при нырянии, но его принимают за шпиона «курильщиков» – самых опасных бандитов Водного мира. При помощи девушки Хелен и маленькой девочки Энолы ему удается избежать казни. Взамен Хелен просит отвезти их на сушу.",
   "ratings": {
    "kinopoisk": 7.642,
    "imdb": 6.3,
@@ -6228,7 +6228,7 @@
   "kind": "series",
   "qid": "Q16538",
   "gkey": null,
-  "titleRu": "Южный парк",
+  "titleRu": "Южный Парк",
   "titleEn": "South Park",
   "year": 1997,
   "kpId": 161252,
@@ -6239,7 +6239,7 @@
    "metacritic": null
   },
   "sources": {
-   "titleRu": "wiki",
+   "titleRu": "kp",
    "titleEn": "wiki",
    "year": "wikidata",
    "desc": "kp",
@@ -7657,7 +7657,7 @@
   "titleEn": "Antichrist",
   "year": 2009,
   "kpId": 408909,
-  "desc": "Немолодая пара теряет сына - двухлетний мальчик падает из окна, когда родители занимаются любовью. Чувство вины буквально сводит с ума мать ребенка, его отец-психотерапевт пытается помочь жене и увозит её в старый дом в лесной чаще. Там супруги погружаются в мир странных символов, в их жизнь проникает безумие и насилие. ",
+  "desc": "Немолодая пара теряет сына - двухлетний мальчик падает из окна, когда родители занимаются любовью. Чувство вины буквально сводит с ума мать ребенка, его отец-психотерапевт пытается помочь жене и увозит её в старый дом в лесной чаще. Там супруги погружаются в мир странных символов, в их жизнь проникает безумие и насилие.",
   "ratings": {
    "kinopoisk": 6.661,
    "imdb": 6.5,
@@ -9082,7 +9082,7 @@
   "titleEn": "Yellow Faced Tiger",
   "year": 1974,
   "kpId": 24742,
-  "desc": "Сан-Франциско, 1970-е гг. Блеск, красоту и относительное спокойствие мегаполиса рискует нарушить некий Босс - бандит и олигарх, который стремительно прибирает к рукам властные структуры, подкупает полицию и набирает добровольцев в свою армию головорезов. Казалось бы, никто и ничто не может остановить самонадеянного и наглого бандита, ставящего себя выше закона. Бывший полицейский Дон Вонг, после того как его друга и напарника убили, начинает собственное расследование и выходит на людей Босса. ",
+  "desc": "Сан-Франциско, 1970-е гг. Блеск, красоту и относительное спокойствие мегаполиса рискует нарушить некий Босс - бандит и олигарх, который стремительно прибирает к рукам властные структуры, подкупает полицию и набирает добровольцев в свою армию головорезов. Казалось бы, никто и ничто не может остановить самонадеянного и наглого бандита, ставящего себя выше закона. Бывший полицейский Дон Вонг, после того как его друга и напарника убили, начинает собственное расследование и выходит на людей Босса.",
   "ratings": {
    "kinopoisk": 5.646,
    "imdb": 4.3,
@@ -11548,5 +11548,2867 @@
   },
   "locked": false,
   "posterFile": "Q18157191.1b64d399.jpg"
+ },
+ "series:ФЕРМА КЛАРКСОНА": {
+  "kind": "series",
+  "titleRu": "ФЕРМА КЛАРКСОНА",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:ЗА ГРАНЬЮ. ВРАГИ ПО ОБЩЕЖИТИЮ": {
+  "kind": "film",
+  "titleRu": "ЗА ГРАНЬЮ. ВРАГИ ПО ОБЩЕЖИТИЮ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "kp:467943": {
+  "kind": "series",
+  "kpId": 467943,
+  "titleRu": "Обычные сказки",
+  "titleEn": null,
+  "year": null,
+  "desc": "«Битва экстрасенсов» на канале ТНТ доказывает: сверхъестественные способности существуют, а их обладатели могут спасти жизнь, найти пропавшего ребенка, рассказать о прошлом и будущем и просто вернуть потерянный телефон.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "manual",
+   "poster": "kp",
+   "desc": "kp"
+  },
+  "posterFile": "kp_467943.6f8a2bce.jpg"
+ },
+ "kp:10180510": {
+  "kind": "series",
+  "kpId": 10180510,
+  "titleRu": "ДНК",
+  "titleEn": null,
+  "year": null,
+  "desc": "Благодаря генетической экспертизе гости программы получают возможность установить отцовство и потребовать уплаты алиментов, подтвердить родство и воссоединиться с родными, определить законных наследников и узнать больше о своей родословной.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "manual",
+   "desc": "kp"
+  }
+ },
+ "kp:5451177": {
+  "kind": "series",
+  "kpId": 5451177,
+  "titleRu": "MJ или МЖ",
+  "titleEn": null,
+  "year": null,
+  "desc": "В студию приходят люди, попавшие в затруднительную ситуацию, чтобы разобраться в ней и получить поддержку. В центре внимания острые проблемы, которые зачастую не так легко выносить на суд общественности. Но только так, вскрыв всю правду и прямо посмотрев проблеме в глаза, можно ее решить.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "manual",
+   "poster": "kp",
+   "desc": "kp"
+  },
+  "posterFile": "kp_5451177.2b0f0681.jpg"
+ },
+ "game:Burglin' Gnomes": {
+  "kind": "game",
+  "titleRu": null,
+  "titleEn": "Burglin' Gnomes",
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "poster": "steam"
+  },
+  "posterFile": "game_Burglin__Gnomes.d5be9aa0.jpg"
+ },
+ "kp:5208553": {
+  "kind": "series",
+  "kpId": 5208553,
+  "titleRu": "Кое-что в 1 и 6",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "manual",
+   "poster": "kp"
+  },
+  "posterFile": "kp_5208553.30085317.jpg"
+ },
+ "Q8561227": {
+  "kind": "film",
+  "qid": "Q8561227",
+  "kpId": 582101,
+  "titleRu": "Дивергент",
+  "titleEn": "Divergent",
+  "year": 2014,
+  "desc": "В антиутопическом Чикаго будущего общество разделено на пять фракций: «Эрудиция», «Дружелюбие», «Искренность», «Отречение» и «Бесстрашие». Каждый житель, достигший 16 лет, должен пройти тест, чтобы определить, к какой фракции он принадлежит.\nЮная Беатрис оказывается угрозой для всей сложившейся системы, когда тесты выявляют в ней дивергента — человека, которого невозможно однозначно определить в одну из фракций. Способные мыслить независимо и не питающие особого уважения к правительству, дивергенты одним своим существованием дискредитируют принципы, на которых строится общество. И теперь Беатрис — одна из таких людей, живущих вне закона и борющихся с системой, которая намерена любой ценой от них избавиться.",
+  "ratings": {
+   "kinopoisk": 6.795,
+   "imdb": 6.6,
+   "metacritic": 48
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q8561227.af96902a.jpg"
+ },
+ "kp:928982": {
+  "kind": "series",
+  "kpId": 928982,
+  "titleRu": "Пусть говорят",
+  "titleEn": null,
+  "year": null,
+  "desc": "«Словом делу не поможешь», но программа «Пусть говорят» эту поговорку опровергает. Настоящие, невыдуманные истории людей задевают больше, чем пафосные рассуждения на общие темы, потому что , вынося на обсуждение частную проблему отдельного человека, отдельной семьи, мы говорим о том, что волнует всех без исключения...",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "manual",
+   "poster": "kp",
+   "desc": "kp"
+  },
+  "posterFile": "kp_928982.e588f039.png"
+ },
+ "game:Kowloon": {
+  "kind": "game",
+  "titleRu": null,
+  "titleEn": "Kowloon",
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "poster": "steam"
+  },
+  "posterFile": "game_Kowloon.41348828.jpg"
+ },
+ "game:Photomaly": {
+  "kind": "game",
+  "titleRu": null,
+  "titleEn": "Photomaly",
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "poster": "steam"
+  },
+  "posterFile": "game_Photomaly.578f1a98.jpg",
+  "fit": "contain"
+ },
+ "kp:5509905": {
+  "kind": "series",
+  "kpId": 5509905,
+  "titleRu": "Необычайно сильные сказки",
+  "titleEn": null,
+  "year": null,
+  "desc": "Девять лучших экстрасенсов страны, среди которых победители и финалисты разных сезонов «Битвы», снова показывают свою силу и эзотерические способности в испытаниях, соревнуясь друг с другом за правом называться лучшим среди лучших.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "manual",
+   "poster": "kp",
+   "desc": "kp"
+  },
+  "posterFile": "kp_5509905.0f07a6fd.jpg"
+ },
+ "film:СЛОМАТЬ ПАЛКА МЯМЛЯ": {
+  "kind": "film",
+  "titleRu": "СЛОМАТЬ ПАЛКА МЯМЛЯ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:ПРО РАЗЛОМЫ РЕАЛЬНОСТИ": {
+  "kind": "film",
+  "titleRu": "ПРО РАЗЛОМЫ РЕАЛЬНОСТИ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "kp:11611536": {
+  "kind": "series",
+  "kpId": 11611536,
+  "titleRu": "Ждули",
+  "titleEn": null,
+  "year": null,
+  "desc": "Реалити-шоу о женщинах, которые строят отношения с мужчинами по ту сторону колючей проволоки. Каждая серия — это история знакомства, осуждения окружающих и ожидания своего избранника.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "manual",
+   "poster": "kp",
+   "desc": "kp"
+  },
+  "posterFile": "kp_11611536.15cfe9dd.jpg"
+ },
+ "Q122383639": {
+  "kind": "game",
+  "qid": "Q122383639",
+  "kpId": null,
+  "titleRu": null,
+  "titleEn": "How Fish Is Made",
+  "year": 2022,
+  "desc": "How Fish Is Made is a 2022 narrative adventure horror game developed by Wrong Organ in which the player takes control of a sardine and explores the concept of choice through dialogue with other fish.\n\n",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "wiki",
+   "ratings": "kp",
+   "poster": "steam"
+  },
+  "posterFile": "Q122383639.7d4c8550.jpg"
+ },
+ "film:ТЁМНЫЙ РЫЦАРЬ": {
+  "kind": "film",
+  "titleRu": "ТЁМНЫЙ РЫЦАРЬ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "game:Shift At Midnight": {
+  "kind": "game",
+  "titleRu": null,
+  "titleEn": "Shift At Midnight",
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "poster": "steam"
+  },
+  "posterFile": "game_Shift_At_Midnight.761385ce.jpg",
+  "fit": "contain"
+ },
+ "film:О ПОВЕДЕНИИ": {
+  "kind": "film",
+  "titleRu": "О ПОВЕДЕНИИ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:МУМИЯ ОДА": {
+  "kind": "film",
+  "titleRu": "МУМИЯ ОДА",
+  "titleEn": null,
+  "year": 1999,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "game:Who's At The Door?": {
+  "kind": "game",
+  "titleRu": null,
+  "titleEn": "Who's At The Door?",
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "poster": "steam"
+  },
+  "posterFile": "game_Who_s_At_The_Door_.6b980f87.jpg"
+ },
+ "Q838154": {
+  "kind": "film",
+  "qid": "Q838154",
+  "kpId": 4255,
+  "titleRu": "Мой кузен Винни",
+  "titleEn": "My Cousin Vinny",
+  "year": 1992,
+  "desc": "Винни Гамбини мечтал стать адвокатом еще когда сидел за решеткой. Поэтому когда кузен Билл попросил спасти его от тюрьмы, он понял, что «звездный» час Винсента Гамбини настал.\nА грозит бесшабашному Биллу и его дружку Стэну немало - их ошибочно обвинили в убийстве продавца в городке, где они были проездом. Думая, что их обвиняют в мелкой магазинной краже, они подписали признания.\nУ наивного грубоватого Винни, пародии на адвоката, который ни разу не был в суде, имеется, однако, секретное оружие - способность скандалить без устали часами напролет. Он и его бойкая на язык, сексапильная подружка Мона Лиза едут в маленький городок, чтобы вытащить эту парочку из беды.\nПочтенному населению города и его системе правосудия предстоит испытать самый глубокий шок за всю его историю…",
+  "ratings": {
+   "kinopoisk": 7.629,
+   "imdb": 7.6,
+   "metacritic": 68
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q838154.7304e09f.jpg"
+ },
+ "Q122354042": {
+  "kind": "game",
+  "qid": "Q122354042",
+  "kpId": null,
+  "titleRu": null,
+  "titleEn": "Fears to Fathom",
+  "year": 2021,
+  "desc": "Fears to Fathom is a horror franchise centered on a series of episodic anthology-style psychological horror video games featuring allegedly real stories submitted by players of the game. The series is created and published by Indian game developer Mukul Negi, who goes by Rayll on online profiles.\nThere were five single-player episodes released between 2021 and 2024. The first episode, Home Alone, was released for free on Steam, with later episodes costing around $5-10. The fourth episode, Ironbark Lookout, was released on PlayStation in October 2024 as well.\nThere are currently co-op episodes being released under Fears to Fathom [Together], with the first co-op episode, Scratch Creek, being released in June 2026.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": 7,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "wiki",
+   "ratings": "kp",
+   "poster": "steam"
+  },
+  "posterFile": "Q122354042.dab60be3.jpg"
+ },
+ "series:Беременна в 16": {
+  "kind": "series",
+  "titleRu": "Беременна в 16",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:Слепая": {
+  "kind": "series",
+  "titleRu": "Слепая",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:СВЕКРОВЬ-СОПЕРНИЦА": {
+  "kind": "series",
+  "titleRu": "СВЕКРОВЬ-СОПЕРНИЦА",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q832047": {
+  "kind": "film",
+  "qid": "Q832047",
+  "kpId": 4067,
+  "titleRu": "Голый пистолет",
+  "titleEn": "The Naked Gun: From the Files of Police Squad!",
+  "year": 1988,
+  "desc": "После миссии в Бейруте лейтенант полиции Лос-Анджелеса Фрэнк Дребин возвращается на родину. Здесь он узнаёт, что его бросила девушка, а коллега Нордберг получил тяжёлые ранения. Дребин берётся за расследование, постоянно попадая в нелепые ситуации. Он ещё не подозревает, что вскоре окажется в эпицентре заговора.",
+  "ratings": {
+   "kinopoisk": 7.365,
+   "imdb": 7.6,
+   "metacritic": 76
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q832047.8d0418e5.jpg"
+ },
+ "film:МОРТАЛ КОМБАТ": {
+  "kind": "film",
+  "titleRu": "МОРТАЛ КОМБАТ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q756572": {
+  "kind": "film",
+  "qid": "Q756572",
+  "kpId": 854,
+  "titleRu": "Такси 2",
+  "titleEn": "Taxi 2",
+  "year": 2000,
+  "desc": "Во Францию прибывает министр обороны Японии. Цель его визита - ознакомиться с французским опытом борьбы с терроризмом и подписать «контракт века» о взаимном сотрудничестве.\n\nНеожиданно во время показательных выступлений французской полиции министра обороны похищают якудза, желающая сорвать заключение наиважнейшего контракта. Даниэль и Эмильен отправляются на поиски высокого гостя. В дело вступает уже хорошо знакомое нам такси.",
+  "ratings": {
+   "kinopoisk": 7.795,
+   "imdb": 6.5,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q756572.70145244.jpg"
+ },
+ "series:Беременна в 45": {
+  "kind": "series",
+  "titleRu": "Беременна в 45",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:ДОРОГАЯ, Я ЗАБИЛ. Утомленный домохозяин": {
+  "kind": "film",
+  "titleRu": "ДОРОГАЯ, Я ЗАБИЛ. Утомленный домохозяин",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:Мама в 16": {
+  "kind": "series",
+  "titleRu": "Мама в 16",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q3480756": {
+  "kind": "film",
+  "qid": "Q3480756",
+  "kpId": 391367,
+  "titleRu": "Мы – легенды",
+  "titleEn": "2 Alone in Paris",
+  "year": 2008,
+  "desc": "Вы думаете, что для «Формулы-1» существуют специальные трассы? Для наших старых знакомцев, Эрика и Рамзи, нигде нет преград. Они носятся на гоночных болидах по Елисейским полям, и их никто не останавливает! Весь Париж опустел будто бы специально для того, чтобы зрители насладились захватывающими приключениями полицейского и преступника, которым никто не мешает погрузиться в ситуацию, доведенную до абсурда.",
+  "ratings": {
+   "kinopoisk": 7.104,
+   "imdb": 5.4,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q3480756.1bc0a4f9.jpg"
+ },
+ "series:Гадалка": {
+  "kind": "series",
+  "titleRu": "Гадалка",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:Четыре свадьбы": {
+  "kind": "series",
+  "titleRu": "Четыре свадьбы",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:Один за всех": {
+  "kind": "series",
+  "titleRu": "Один за всех",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:ДЕРЕВЕНСКАЯ СВАДЬБА VS МОСКОВСКАЯ СВАДЬБА": {
+  "kind": "film",
+  "titleRu": "ДЕРЕВЕНСКАЯ СВАДЬБА VS МОСКОВСКАЯ СВАДЬБА",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q858724": {
+  "kind": "film",
+  "qid": "Q858724",
+  "kpId": 64021,
+  "titleRu": "Зомби по имени Шон",
+  "titleEn": "Shaun of the Dead",
+  "year": 2004,
+  "desc": "В жизни Шона все идет наперекосяк: ему 29 лет, он работает обычным продавцом-консультантом, дома постоянные бытовые разборки с соседями, еще и подруга дает от ворот поворот. А тут еще начинается какая-то странная эпидемия — ожившие и очень голодные трупы начинают бродить по туманному Альбиону в поисках свежей человечинки, по ходу дела превращая граждан в таких же зомби. Шон вместе с другом Эдом вооружаются дубинами и лопатами и выходят на тропу войны.",
+  "ratings": {
+   "kinopoisk": 7.294,
+   "imdb": 7.8,
+   "metacritic": 76
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q858724.47564870.jpg"
+ },
+ "film:НЕМНОЖКО РАЗВЕДЕНЫ": {
+  "kind": "film",
+  "titleRu": "НЕМНОЖКО РАЗВЕДЕНЫ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:МНЕ ИЗМЕНИЛИ. , 1 СЕРИЯ": {
+  "kind": "series",
+  "titleRu": "МНЕ ИЗМЕНИЛИ. , 1 СЕРИЯ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q15732802": {
+  "kind": "film",
+  "qid": "Q15732802",
+  "kpId": 762738,
+  "titleRu": "Джон Уик",
+  "titleEn": "John Wick",
+  "year": 2014,
+  "desc": "Джон Уик - на первый взгляд, самый обычный среднестатистический американец, который ведет спокойную мирную жизнь. Однако мало кто знает, что он был наёмным убийцей, причём одним из лучших профессионалов в своём деле.\nПосле того как сынок главы бандитской группы со своими приятелями угоняет его любимый «Мустанг» 1969 года выпуска, при этом убив его собаку Дейзи, которая была подарком недавно почившей супруги, Джон вынужден вернуться к своему прошлому. Теперь Уик начинает охоту за теми, кто имел неосторожность перейти ему дорогу, и он готов на всё, чтобы отомстить.",
+  "ratings": {
+   "kinopoisk": 7.041,
+   "imdb": 7.5,
+   "metacritic": 87
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q15732802.27254c02.jpg"
+ },
+ "series:МАМА В В 16 | , 3 СЕРИЯ": {
+  "kind": "series",
+  "titleRu": "МАМА В В 16 | , 3 СЕРИЯ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:СВЕЖИЕ ПИЗДУНЫ 3": {
+  "kind": "film",
+  "titleRu": "СВЕЖИЕ ПИЗДУНЫ 3",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q628082": {
+  "kind": "film",
+  "qid": "Q628082",
+  "kpId": 517988,
+  "titleRu": "Время",
+  "titleEn": "In Time",
+  "year": 2011,
+  "desc": "Недалёкое будущее. Человечество перестало стареть после 25 лет, а время стало единственной валютой. Теперь богачи могут жить вечно, а простые люди, чтобы не умереть, вынуждены каждый день бороться за существование, продлевая жизненный цикл. Рабочий из гетто Уилл Салас привык считать каждую секунду. Однажды он спасает от банды грабителей времени богатого Генри Хэмилтона и получает от него 116 лет жизни. Но вскоре щедрый подарок оборачивается ловушкой: Генри добровольно уходит из жизни, а стражи времени начинают преследовать Уилла, считая его убийцей.",
+  "ratings": {
+   "kinopoisk": 7.297,
+   "imdb": 6.7,
+   "metacritic": 53
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q628082.4bea3486.jpg"
+ },
+ "film:СВЕЖИЕ ПИЗДУНЫ 1": {
+  "kind": "film",
+  "titleRu": "СВЕЖИЕ ПИЗДУНЫ 1",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:СВЕЖИЕ ПИЗДУНЫ 2": {
+  "kind": "film",
+  "titleRu": "СВЕЖИЕ ПИЗДУНЫ 2",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q129440575": {
+  "kind": "game",
+  "qid": "Q129440575",
+  "kpId": null,
+  "titleRu": "Reanimal",
+  "titleEn": "Reanimal",
+  "year": 2026,
+  "desc": "Reanimal — компьютерная игра в жанре survival horror, разработанная шведской студией Tarsier Studios и изданная компанией THQ Nordic. Выход игры состоялся 13 февраля 2026 года для Windows, PlayStation 5, Xbox Series X/S и Nintendo Switch 2.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": 7.8,
+   "metacritic": 80
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "wiki",
+   "ratings": "kp",
+   "poster": "steam"
+  },
+  "posterFile": "Q129440575.371b41d8.jpg"
+ },
+ "Q276407": {
+  "kind": "film",
+  "qid": "Q276407",
+  "kpId": 4851,
+  "titleRu": "Призрак оперы",
+  "titleEn": "The Phantom of the Opera",
+  "year": 2004,
+  "desc": "Таинственный голос взывает к молодой оперной певице Кристине из мрачных недр величественной Парижской оперы. Лишь один человек в труппе знает, что невидимый покровитель и наставник Кристины, наводящий ужас на артистов, - обезображенный гений музыки, влюбленный в юную красавицу. \n\nПризрак в маске сделает все, чтобы она стала примадонной сцены, однако у него есть властный соперник - богатый виконт Рауль де Шаньи. Став пленницей любовного треугольника, Кристина должна сделать выбор. Но страсти, что вскружили голову, свирепая ревность и безумная любовь уже вынесли возлюбленным свой немилосердный приговор...",
+  "ratings": {
+   "kinopoisk": 7.821,
+   "imdb": 7.2,
+   "metacritic": 40
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q276407.c367293f.jpg"
+ },
+ "Q19372190": {
+  "kind": "film",
+  "qid": "Q19372190",
+  "kpId": 842950,
+  "titleRu": "Волна",
+  "titleEn": "The Wave",
+  "year": 2015,
+  "desc": "Сигнал тревоги разносится над спящим городом. То, чего так боялись сейсмологи, сбылось – сильнейший тектонический сдвиг вызывает обрушение горного массива. Теперь гигантское смертоносное цунами движется прямо на людей. Опытный геолог Кристиан Айкорд оказывается в эпицентре самого страшного кошмара своей жизни.",
+  "ratings": {
+   "kinopoisk": 6.628,
+   "imdb": 6.6,
+   "metacritic": 68
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q19372190.e29b2af3.jpg"
+ },
+ "series:Вагитна у 16": {
+  "kind": "series",
+  "titleRu": "Вагитна у 16",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "game:Backseat Drivers": {
+  "kind": "game",
+  "titleRu": null,
+  "titleEn": "Backseat Drivers",
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "poster": "steam"
+  },
+  "posterFile": "game_Backseat_Drivers.f5e6af88.jpg"
+ },
+ "series:Порча": {
+  "kind": "series",
+  "titleRu": "Порча",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q1468980": {
+  "kind": "film",
+  "qid": "Q1468980",
+  "kpId": 59123,
+  "titleRu": "Затмение",
+  "titleEn": "L'Eclisse",
+  "year": 1962,
+  "desc": "После расставания с женихом молодая переводчица Виттория знакомится с успешным биржевым маклером Пьеро. Их случайная встреча обещает стать началом новой любви, однако взаимное притяжение постепенно уступает место растущему ощущению отчужденности.",
+  "ratings": {
+   "kinopoisk": 7.832,
+   "imdb": 7.7,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q1468980.d72706c0.jpg"
+ },
+ "game:We Escaped A Twisted Game": {
+  "kind": "game",
+  "titleRu": null,
+  "titleEn": "We Escaped A Twisted Game",
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "poster": "steam"
+  },
+  "posterFile": "game_We_Escaped_A_Twisted_Game.70931add.jpg"
+ },
+ "Q52199803": {
+  "kind": "game",
+  "qid": "Q52199803",
+  "kpId": null,
+  "titleRu": "Rusty Lake Hotel",
+  "titleEn": "Rusty Lake Hotel",
+  "year": 2015,
+  "desc": "Rusty Lake Hotel (с англ. — «Отель «Расти-Лейк») — инди-игра в жанре графического квеста, разработанная и выпущенная в 2015 году студией Rusty Lake. Действие игры происходит в отеле на острове. Игрок в роли дворецкого каждую ночь должен убивать одного из пяти постояльцев, чтобы наутро из него приготовили ужин. Все персонажи игры — антропоморфные животные.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": 8,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "wiki",
+   "ratings": "kp",
+   "poster": "steam"
+  },
+  "posterFile": "Q52199803.414c8a01.jpg"
+ },
+ "Q18703032": {
+  "kind": "film",
+  "qid": "Q18703032",
+  "kpId": 798068,
+  "titleRu": "Комната",
+  "titleEn": "Room",
+  "year": 2015,
+  "desc": "Джой похитил маньяк, когда она была ещё подростком. С тех пор она живет в крохотной комнатке вместе с 5-летним сыном Джеком. Мальчик ничего кроме этой комнаты не видел — он в ней родился и ни разу её не покидал. Все эти годы Джой вынашивала план побега, и вот у нее появился шанс.",
+  "ratings": {
+   "kinopoisk": 7.62,
+   "imdb": 8.1,
+   "metacritic": 86
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q18703032.05610267.jpg"
+ },
+ "series:Не ври мне": {
+  "kind": "series",
+  "titleRu": "Не ври мне",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "game:Unmourned": {
+  "kind": "game",
+  "titleRu": null,
+  "titleEn": "Unmourned",
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "poster": "steam"
+  },
+  "posterFile": "game_Unmourned.51a9b300.jpg"
+ },
+ "Q180125": {
+  "kind": "film",
+  "qid": "Q180125",
+  "kpId": 167491,
+  "titleRu": "Шаг вперед",
+  "titleEn": "Step Up",
+  "year": 2006,
+  "desc": "Тайлер Гейдж - уличный танцор. Безумный и рискованный стиль жизни заставляет его конфликтовать с обществом. После очередного инцидента, Тайлер попадает в школу, в которой будет вынужден отрабатывать наказание в виде исправительных работ. Там он знакомится с девушкой, которая открывает ему глаза на его талант и окружающий его мир…",
+  "ratings": {
+   "kinopoisk": 7.621,
+   "imdb": 6.5,
+   "metacritic": 48
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q180125.8ab84684.jpg"
+ },
+ "Q623724": {
+  "kind": "film",
+  "qid": "Q623724",
+  "kpId": 750,
+  "titleRu": "Знакомство с родителями",
+  "titleEn": "Meet the Parents",
+  "year": 2000,
+  "desc": "Обладатель замечательной фамилии, санитар Грэг Трахер, отправляется за город, чтобы познакомиться с родителями своей девушки Пэм. Здесь Грэг собирается торжественно просить руки возлюбленной. Но, к несчастью, Грэг — парень невезучий, и любые благие начинания в его исполнении превращаются в сущий кошмар.\n\nНесчастный Трахер и в самом страшном сне не предполагал, какие его ждут испытания. Дело в том, что отец Пэм, Джек Бернс, — отставной сотрудник ЦРУ, устраивает приятелям дочери свою особую и жесткую проверку. Эта проверка включает в себя даже специальный тест на детекторе лжи!",
+  "ratings": {
+   "kinopoisk": 7.542,
+   "imdb": 7,
+   "metacritic": 73
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q623724.f47ebcc7.jpg"
+ },
+ "game:At Dead Of Night": {
+  "kind": "game",
+  "titleRu": null,
+  "titleEn": "At Dead Of Night",
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "poster": "steam"
+  },
+  "posterFile": "game_At_Dead_Of_Night.93846bfd.jpg"
+ },
+ "game:Haunted Room: 205": {
+  "kind": "game",
+  "titleRu": null,
+  "titleEn": "Haunted Room: 205",
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "poster": "steam"
+  },
+  "posterFile": "game_Haunted_Room__205.787d75c7.jpg"
+ },
+ "series:ОСТРОВ. , 5 СЕРИЯ": {
+  "kind": "series",
+  "titleRu": "ОСТРОВ. , 5 СЕРИЯ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:Звёзды под капельницей": {
+  "kind": "series",
+  "titleRu": "Звёзды под капельницей",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q927012": {
+  "kind": "game",
+  "qid": "Q927012",
+  "kpId": null,
+  "titleRu": "WWE SmackDown vs. Raw 2007",
+  "titleEn": "WWE SmackDown vs. Raw 2007",
+  "year": 2006,
+  "desc": "WWE SmackDown vs. Raw 2007 — компьютерная игра, разработчиком которой является Yuke's, издателем — THQ. Игра была выпущена для PlayStation 2, Xbox 360 и PlayStation Portable.Эта восьмая компьютерная игра из серии WWE, являющаяся продолжением WWE SmackDown! vs. Raw 2006. Игра вышла в продажу в ноябре 2006 года на PlayStation 2 и Xbox 360, а версия на PlayStation Portable месяц спустя. Версия на Xbox 360 стала первой игрой в серии которая была создана на консоли седьмого поколения. Версия на PlayStation 3 также планировалась к выпуску, но была отменена.\nОсновой игре служит федерация профессионального рестлинга World Wrestling Entertainment (WWE). Название игры содержит названия двух брендов промоушена — SmackDown и Raw.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "wiki",
+   "ratings": "kp",
+   "poster": "steam"
+  },
+  "posterFile": "Q927012.7fb6c64e.jpg"
+ },
+ "series:ОСТРОВ. , 4 СЕРИЯ": {
+  "kind": "series",
+  "titleRu": "ОСТРОВ. , 4 СЕРИЯ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:ОСТРОВ. , 3 СЕРИЯ": {
+  "kind": "series",
+  "titleRu": "ОСТРОВ. , 3 СЕРИЯ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:ЧБД С ОЛЕГОМ ШЕПСОМ": {
+  "kind": "film",
+  "titleRu": "ЧБД С ОЛЕГОМ ШЕПСОМ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:ОСТРОВ. , 2 СЕРИЯ": {
+  "kind": "series",
+  "titleRu": "ОСТРОВ. , 2 СЕРИЯ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:ОСТРОВ. , 1 СЕРИЯ": {
+  "kind": "series",
+  "titleRu": "ОСТРОВ. , 1 СЕРИЯ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:Эксы": {
+  "kind": "series",
+  "titleRu": "Эксы",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:Маменькин сынок": {
+  "kind": "series",
+  "titleRu": "Маменькин сынок",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:Чадо из ада": {
+  "kind": "series",
+  "titleRu": "Чадо из ада",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "game:Сarry The Glass": {
+  "kind": "game",
+  "titleRu": "Сarry The Glass",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:Решаем проблемы папищеков вместе с Максосом": {
+  "kind": "film",
+  "titleRu": "Решаем проблемы папищеков вместе с Максосом",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:ЗАВТРА": {
+  "kind": "film",
+  "titleRu": "ЗАВТРА",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:АРКЕЙН, 5 CЕРИЙ": {
+  "kind": "film",
+  "titleRu": "АРКЕЙН, 5 CЕРИЙ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:НА ДНЕ ЗНАНИЙ": {
+  "kind": "series",
+  "titleRu": "НА ДНЕ ЗНАНИЙ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:ДОКУМЕНТАЛКУ ПРО ПИРАМИДЫ": {
+  "kind": "film",
+  "titleRu": "ДОКУМЕНТАЛКУ ПРО ПИРАМИДЫ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:Кооператив Узник": {
+  "kind": "film",
+  "titleRu": "Кооператив Узник",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:ОБЗОРЫ НА БЛЕЙДА": {
+  "kind": "film",
+  "titleRu": "ОБЗОРЫ НА БЛЕЙДА",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:АДСКАЯ БОЧКА": {
+  "kind": "film",
+  "titleRu": "АДСКАЯ БОЧКА",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:ДЕЛО ГОЛОВКИНА. УДАВ": {
+  "kind": "film",
+  "titleRu": "ДЕЛО ГОЛОВКИНА. УДАВ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "game:Dread Flats": {
+  "kind": "game",
+  "titleRu": null,
+  "titleEn": "Dread Flats",
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "poster": "steam"
+  },
+  "posterFile": "game_Dread_Flats.385dcb8e.jpg"
+ },
+ "Q134992929": {
+  "kind": "game",
+  "qid": "Q134992929",
+  "kpId": null,
+  "titleRu": "Peak",
+  "titleEn": "Peak",
+  "year": 2025,
+  "desc": "Peak — кооперативная компьютерная игра в жанре приключенческий экшен с элементами симулятора выживания, разработанная студиями Aggro Crab и Landfall, выпущенная 16 июня 2025 года для Windows. Игра быстро привлекла внимание аудитории: в первую неделю после выхода Peak стала одной из самых популярных игр на Twitch и продалась тиражом более миллиона копий.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": 7.1,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "wiki",
+   "ratings": "kp",
+   "poster": "steam"
+  },
+  "posterFile": "Q134992929.5ee9766c.jpg"
+ },
+ "film:ПРОФЕССИЯ РЕПОРТЕР - БОГ КУЗЯ": {
+  "kind": "film",
+  "titleRu": "ПРОФЕССИЯ РЕПОРТЕР - БОГ КУЗЯ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:Сибирский потрошитель": {
+  "kind": "film",
+  "titleRu": "Сибирский потрошитель",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:ШОУ АНДРЕЯ ПЕТРОВА": {
+  "kind": "series",
+  "titleRu": "ШОУ АНДРЕЯ ПЕТРОВА",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "game:Blasfemia": {
+  "kind": "game",
+  "titleRu": null,
+  "titleEn": "Blasfemia",
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "poster": "steam"
+  },
+  "posterFile": "game_Blasfemia.d2115427.jpg"
+ },
+ "series:Детективы": {
+  "kind": "series",
+  "titleRu": "Детективы",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q485610": {
+  "kind": "film",
+  "qid": "Q485610",
+  "kpId": 279596,
+  "titleRu": "Ананасовый экспресс: Сижу, курю",
+  "titleEn": "Pineapple Express",
+  "year": 2008,
+  "desc": "Раздолбай и любитель травки случайно становится свидетелем убийства и, прихватив своего дружка, такого же лузера, как он, пытается свалить из города, спасаясь от Плохих Парней. Дело пахнет керосином, ведь мафия решила заставить приятелей замолчать навсегда.",
+  "ratings": {
+   "kinopoisk": 6.709,
+   "imdb": 6.9,
+   "metacritic": 64
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q485610.965607ec.jpg"
+ },
+ "film:ПРИВЕТ, ЭЛИТА!": {
+  "kind": "film",
+  "titleRu": "ПРИВЕТ, ЭЛИТА!",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:Обмен женами": {
+  "kind": "series",
+  "titleRu": "Обмен женами",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:МОЯ МАЛЕНЬКАЯ СТРАННОСТЬ. , 2 серия": {
+  "kind": "series",
+  "titleRu": "МОЯ МАЛЕНЬКАЯ СТРАННОСТЬ. , 2 серия",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q123117469": {
+  "kind": "game",
+  "qid": "Q123117469",
+  "kpId": null,
+  "titleRu": "Indika",
+  "titleEn": "Indika",
+  "year": 2024,
+  "desc": "Indika — приключенческая компьютерная игра от третьего лица, разработанная студией Odd Meter и выпущенная под издательством 11 bit studios. Релиз состоялся 2 мая 2024 года для Windows.\nДействия игры завязаны вокруг православной религии, а сами события разворачиваются в альтернативной России конца XIX века. Главная героиня по имени Индика, душевнобольная молодая монахиня, слышащая голос дьявола, отправляется в путешествие из монастыря и встречает на своём пути тяжело больного беглого каторжника, который утверждает, что его направляет Бог.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": 6.9,
+   "metacritic": 82
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "wiki",
+   "ratings": "kp",
+   "poster": "steam"
+  },
+  "posterFile": "Q123117469.6cedaa0f.jpg"
+ },
+ "series:Супермама": {
+  "kind": "series",
+  "titleRu": "Супермама",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:НОВЫЙ РЕВИЗОРРО. ПЕРЕСАДКА КАЛА": {
+  "kind": "film",
+  "titleRu": "НОВЫЙ РЕВИЗОРРО. ПЕРЕСАДКА КАЛА",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q43295469": {
+  "kind": "film",
+  "qid": "Q43295469",
+  "kpId": 1109271,
+  "titleRu": "Майор Гром: Чумной Доктор",
+  "titleEn": "Major Grom: Plague Doctor",
+  "year": 2021,
+  "desc": "Майор полиции Игорь Гром известен всему Санкт-Петербургу пробивным характером и непримиримой позицией по отношению к преступникам всех мастей. Неимоверная сила, аналитический склад ума и неподкупность — всё это делает майора Грома идеальным полицейским. Но всё резко меняется с появлением человека в маске Чумного Доктора. Заявив, что его город «болен чумой беззакония», он принимается за «лечение», убивая людей, которые в своё время избежали наказания при помощи денег и влияния. Общество взбудоражено. Полиция бессильна. Игорь впервые сталкивается с трудностями в расследовании, от итогов которого может зависеть судьба всего города.",
+  "ratings": {
+   "kinopoisk": 7.292,
+   "imdb": 6.3,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q43295469.82c27fc1.jpg"
+ },
+ "film:Овечкины: никто не хотел убивать": {
+  "kind": "film",
+  "titleRu": "Овечкины: никто не хотел убивать",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:ЭКСТРЕМАЛЬНЫЙ СПОСОБ ЭКОНОМИИ. , 2 серия": {
+  "kind": "series",
+  "titleRu": "ЭКСТРЕМАЛЬНЫЙ СПОСОБ ЭКОНОМИИ. , 2 серия",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:Криминальная Россия": {
+  "kind": "series",
+  "titleRu": "Криминальная Россия",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q133247101": {
+  "kind": "game",
+  "qid": "Q133247101",
+  "kpId": null,
+  "titleRu": "R.E.P.O.",
+  "titleEn": "R.E.P.O.",
+  "year": 2025,
+  "desc": "R.E.P.O. (аббр. от англ. Retrieve, Extract and Profit Operation) — кооперативная компьютерная игра в жанре survival horror, разрабатываемая и издаваемая шведской студией Semiwork для Windows. Игра вышла в раннем доступе 26 февраля 2025 года. Разработка ведётся на игровом движке Unity с использованием платформы Photon для сетевого взаимодействия.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": 7.2,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "wiki",
+   "ratings": "kp",
+   "poster": "steam"
+  },
+  "posterFile": "Q133247101.76139e1d.jpg"
+ },
+ "series:ЭКСТРЕМАЛЬНЫЙ СПОСОБ ЭКОНОМИИ. , 1 серия": {
+  "kind": "series",
+  "titleRu": "ЭКСТРЕМАЛЬНЫЙ СПОСОБ ЭКОНОМИИ. , 1 серия",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "game:Pieces Of Me": {
+  "kind": "game",
+  "titleRu": null,
+  "titleEn": "Pieces Of Me",
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "poster": "steam"
+  },
+  "posterFile": "game_Pieces_Of_Me.0684976e.jpg"
+ },
+ "Q1056921": {
+  "kind": "film",
+  "qid": "Q1056921",
+  "kpId": 573239,
+  "titleRu": "Паранормальное явление 3",
+  "titleEn": "Paranormal Activity 3",
+  "year": 2011,
+  "desc": "1988 год. В доме, где живет семья с двумя детьми, начинают происходить странные вещи. Кристи, одна из девочек, общается с невидимым другом Тоби, который поселился в их доме.",
+  "ratings": {
+   "kinopoisk": 5.904,
+   "imdb": 5.8,
+   "metacritic": 59
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q1056921.4051cae1.jpg"
+ },
+ "game:The Inn-Sanity": {
+  "kind": "game",
+  "titleRu": null,
+  "titleEn": "The Inn-Sanity",
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "poster": "steam"
+  },
+  "posterFile": "game_The_Inn-Sanity.29f8ac56.jpg"
+ },
+ "Q3429263": {
+  "kind": "film",
+  "qid": "Q3429263",
+  "kpId": 4554,
+  "titleRu": "Блэйд",
+  "titleEn": "Blade",
+  "year": 1998,
+  "desc": "Получеловек-полувампир Блэйд намерен уничтожить виновника своей судьбы - Дьякона Фроста. Когда-то в кровь Блэйда попало совсем немного вампирского яда, но с течением времени он стал ощущать неизбежность своего превращения.\n\nЖелая избавить людей от тайной и могущественной армии вампиров, заполонившей общество, он отправляется на решающий бой...",
+  "ratings": {
+   "kinopoisk": 7.291,
+   "imdb": 7.1,
+   "metacritic": 47
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q3429263.5e23a3ad.jpg"
+ },
+ "Q106506": {
+  "kind": "film",
+  "qid": "Q106506",
+  "kpId": 2656,
+  "titleRu": "Пятый элемент",
+  "titleEn": "The Fifth Element",
+  "year": 1997,
+  "desc": "2257 год. Бывший секретный агент Корбен Даллас работает таксистом, ест в одном и том же ресторане и не ждёт перемен от жизни. Всё меняется, когда в его такси падает инопланетянка Лилу — единственное существо, способное спасти человечество. Вместе им предстоит остановить надвигающееся зло и предотвратить межгалактическую войну.",
+  "ratings": {
+   "kinopoisk": 8.191,
+   "imdb": 7.6,
+   "metacritic": 52
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q106506.69aabd9c.png"
+ },
+ "Q912082": {
+  "kind": "film",
+  "qid": "Q912082",
+  "kpId": 481706,
+  "titleRu": "Паранормальное явление 2",
+  "titleEn": "Paranormal Activity 2",
+  "year": 2010,
+  "desc": "После серии, как им показалось, взломов своего жилища супруги решают установить камеры слежения по всему дому. Вскоре выясняется, что они имеют дело далеко не с грабителями.",
+  "ratings": {
+   "kinopoisk": 5.954,
+   "imdb": 5.7,
+   "metacritic": 53
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q912082.80d929eb.jpg"
+ },
+ "series:Неравный брак": {
+  "kind": "series",
+  "titleRu": "Неравный брак",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:БРЕМЯ ЦЫГАН": {
+  "kind": "film",
+  "titleRu": "БРЕМЯ ЦЫГАН",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "game:Игру Про Беременную В 16": {
+  "kind": "game",
+  "titleRu": "Игру Про Беременную В 16",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "game:Amenti": {
+  "kind": "game",
+  "titleRu": null,
+  "titleEn": "Amenti",
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "poster": "steam"
+  },
+  "posterFile": "game_Amenti.575f41a8.jpg"
+ },
+ "Q381028": {
+  "kind": "film",
+  "qid": "Q381028",
+  "kpId": 404366,
+  "titleRu": "Паранормальное явление",
+  "titleEn": "Paranormal Activity",
+  "year": 2007,
+  "desc": "Молодая пара проживает в доме, который, как они подозревают, посещается некой злой силой. Чтобы зафиксировать паранормальную активность, они устанавливают видеонаблюдение.",
+  "ratings": {
+   "kinopoisk": 6.558,
+   "imdb": 6.3,
+   "metacritic": 68
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q381028.28b8799e.jpg"
+ },
+ "Q192724": {
+  "kind": "film",
+  "qid": "Q192724",
+  "kpId": 61237,
+  "titleRu": "Железный человек",
+  "titleEn": "Iron Man",
+  "year": 2008,
+  "desc": "Миллиардер-изобретатель Тони Старк попадает в плен к Афганским террористам, которые пытаются заставить его создать оружие массового поражения. В тайне от своих захватчиков Старк конструирует высокотехнологичную киберброню, которая помогает  ему сбежать. Однако по возвращении в США он узнаёт, что в совете директоров его фирмы плетётся заговор, чреватый страшными последствиями. Используя своё последнее изобретение, Старк пытается решить проблемы своей компании радикально...",
+  "ratings": {
+   "kinopoisk": 7.992,
+   "imdb": 7.9,
+   "metacritic": 79
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q192724.479070e6.jpg"
+ },
+ "Q1191033": {
+  "kind": "game",
+  "qid": "Q1191033",
+  "kpId": null,
+  "titleRu": "Косынка (пасьянс)",
+  "titleEn": "Klondike (solitaire)",
+  "year": null,
+  "desc": "«Косынка», или «Клондайк» (англ. Klondike) — старинный карточный пасьянс.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "wiki",
+   "ratings": "kp",
+   "poster": "steam"
+  },
+  "posterFile": "Q1191033.ab5b61d7.jpg",
+  "fit": "contain"
+ },
+ "film:ЧЕЛОВЕК ПАУК 3: ВРАГ В ОТРАЖЕНИИ": {
+  "kind": "film",
+  "titleRu": "ЧЕЛОВЕК ПАУК 3: ВРАГ В ОТРАЖЕНИИ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q190145": {
+  "kind": "film",
+  "qid": "Q190145",
+  "kpId": 2898,
+  "titleRu": "Человек-паук 2",
+  "titleEn": "Spider-Man 2",
+  "year": 2004,
+  "desc": "Тихоня Питер Паркер балансирует на грани двух своих жизней: супергероя Человека-паука и обычного студента колледжа. Его отношения со всеми, кто ему дорог, в опасности или зашли в тупик. А жизнь приготовила ему новое испытание. Он должен использовать все свои суперспособности, чтобы одолеть жестокого безумца доктора Отто Октавиуса.",
+  "ratings": {
+   "kinopoisk": 7.377,
+   "imdb": 7.5,
+   "metacritic": 83
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q190145.d2255b1b.jpg"
+ },
+ "film:СКОРО!": {
+  "kind": "film",
+  "titleRu": "СКОРО!",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q123289966": {
+  "kind": "game",
+  "qid": "Q123289966",
+  "kpId": null,
+  "titleRu": null,
+  "titleEn": "Don't Scream",
+  "year": 2023,
+  "desc": "Don't Scream is an indie survival horror game, designed by Joe Henson. The game became popular when it released for early access on 27 October 2023. Version 1.0 was released on 28 October 2024.\nA sequel, titled Don't Scream Together, was released on 3 December 2025.\n\n",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "wiki",
+   "ratings": "kp",
+   "poster": "steam"
+  },
+  "posterFile": "Q123289966.7f20e8b9.jpg"
+ },
+ "Q221202": {
+  "kind": "film",
+  "qid": "Q221202",
+  "kpId": 5928,
+  "titleRu": "Один дома 2: Затерянный в Нью-Йорке",
+  "titleEn": "Home Alone 2: Lost in New York",
+  "year": 1992,
+  "desc": "Самый маленький герой Америки устраивает большой переполох в Нью-Йорке! Кевин МакКалистер вернулся! Но теперь он один не дома, а в Нью-Йорке и у него достаточно денег и кредитных карточек, чтобы превратить Большое Яблоко в собственную площадку для игр.\n\nНо, как всегда, Кевину не суждено быть долго одному: его старые приятели ― жулики Гарри и Марв ― сбежали из тюрьмы, куда они попали стараниями Кевина. И надо же им было попасть именно в тот город, где Кевин планировал поразвлечься! Новые западни и ловушки уже ждут горе-бандитов.",
+  "ratings": {
+   "kinopoisk": 8.037,
+   "imdb": 6.9,
+   "metacritic": 46
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q221202.ec73aeae.jpg"
+ },
+ "Q119361372": {
+  "kind": "game",
+  "qid": "Q119361372",
+  "kpId": null,
+  "titleRu": "Still Wakes the Deep",
+  "titleEn": "Still Wakes the Deep",
+  "year": 2024,
+  "desc": "Still Wakes the Deep — это компьютерная игра в жанре психологического хоррора, разработанная студией The Chinese Room и изданный компанией Secret Mode в 2024 году для Windows, PlayStation 5 и Xbox Series X/S. Сюжет рассказывает об электрике по имени Кэмерон «Каз» Маклири (Алек Ньюман), оказавшемся запертым в ловушке вместе со всем остальным персоналом на поврежденной нефтяной буровой платформе в Северном море в 1970-х годах. В попытках эвакуироваться с нее и преследуемые таинственными монстрами в суровых погодных условиях игрок пытается выжить в сложившихся обстоятельствах. Управление протоганистом ведётся от первого лица и в игре полностью отсутствует боевая система, а для выживания игрокам приходится полагаться на скрытность и решение простых головоломок. По мере прохождения сюжета нефтяная платформа постепенно развивается и видоизменяется, пусть сам игровой процесс остается в основном линеен.\nСооснователь студии The Chinese Room Дэн Пинчбек первоначально представил Still Wakes the Deep как «„Нечто“, действие которого разворачивается на нефтяной платформе». Он выступил сценаристом и занимал должность руководителя разработки до своего ухода в середине 2023 года. Сама же студия, ранее выпустившая Amnesia: A Machine for Pigs (2013) и Everybody's Gone to the Rapture (2015), объявила Still Wakes the Deep своим возвращением к сюжетно-ориентированным хоррор-играм. Хотя в игре присутствует сверхъестественное существо, океан в ней становится для игрока второстепенным врагом, поскольку команда также считала, что это место действия способно вызывать различные страхи, такие как головокружение, страх утопления и клаустрофобия. Вдохновением для команды послужили фильмы «Приключение „Посейдона“» и «Аннигиляция» . Команда опросила инженеров, которые раньше работали на нефтяной платформе, и изучила документальные архивы BP, чтобы убедиться в подлинности и исторической достоверности представленной в игре нефтяной платформы. К участию в проекте были привлечены и шотландские актёры, причем Алек Ньюман озвучил главного героя игры.\nИгра была анонсированна в июне 2023 года, и в июле 2024 года была выпущена для Windows, PlayStation 5, а также Xbox Series X и Series S. Она получила в целом положительные отзывы игровой прессы: критики хвалили сюжет, атмосферу, графику, звуковое оформление и озвучку, но критиковали геймплей, линейную структуру и общую продолжительность. Still Wakes the Deep получила две номинации на 28-й ежегодной премии DICE Awards и восемь номинаций на 21-й премии British Academy Games Awards, выиграв три из них. Дополнение к игре под названием Siren’s Rest было выпущено 18 июня 2025 года.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": 7.6,
+   "metacritic": 83
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "wiki",
+   "ratings": "kp",
+   "poster": "steam"
+  },
+  "posterFile": "Q119361372.5ba9ee5b.jpg"
+ },
+ "Q527380": {
+  "kind": "film",
+  "qid": "Q527380",
+  "kpId": 1828,
+  "titleRu": "Плохой Санта",
+  "titleEn": "Bad Santa",
+  "year": 2003,
+  "desc": "Вилли — необычный Санта-Клаус. Раз в год на Рождество он вместе со своим напарником грабит очередной универмаг. К тому же в прошлом он отсидел в тюрьме, был не единожды женат, а ныне Вилли — злостный бабник и пропойца. Он по-настоящему плохой, невыносимый Санта. Но нашелся мальчуган, который все-таки в него поверил. И Вилли придется творить настоящие чудеса, чтоб на сей раз довести задуманное до конца.",
+  "ratings": {
+   "kinopoisk": 7.379,
+   "imdb": 7,
+   "metacritic": 70
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q527380.04e4d47f.jpg"
+ },
+ "film:РОЖДЕСТВЕНСКАЯ ПЯТЁРКА": {
+  "kind": "film",
+  "titleRu": "РОЖДЕСТВЕНСКАЯ ПЯТЁРКА",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q23006268": {
+  "kind": "film",
+  "qid": "Q23006268",
+  "kpId": 463634,
+  "titleRu": "Веном",
+  "titleEn": "Venom",
+  "year": 2018,
+  "desc": "Что, если в один прекрасный день в тебя вселится симбиот, который наделит тебя сверхчеловеческими способностями? Вот только Веном — симбиот совсем недобрый, и договориться с ним невозможно. А нужно ли договариваться? Ведь в какой-то момент ты понимаешь, что быть плохим вовсе не так уж и плохо, так даже веселее. А в мире и так слишком много супергероев.",
+  "ratings": {
+   "kinopoisk": 6.946,
+   "imdb": 6.6,
+   "metacritic": 35
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q23006268.14acd2c3.jpg"
+ },
+ "series:Сумерки. Рассвет:": {
+  "kind": "series",
+  "titleRu": "Сумерки. Рассвет:",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q112153189": {
+  "kind": "game",
+  "qid": "Q112153189",
+  "kpId": null,
+  "titleRu": "Зайчик",
+  "titleEn": null,
+  "year": 2021,
+  "desc": "«Зайчик» (англ. Tiny Bunny) — компьютерная игра в жанре визуальной новеллы с элементами фолк-хоррора, созданная по мотивам одноимённого рассказа интернет-писателя Дмитрия Мордаса. Игра распространялась эпизодически: выпуск первых частей состоялся 16 апреля 2021 года, а финальный, пятый эпизод вышел 5 декабря 2025 года.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "wiki",
+   "ratings": "kp",
+   "poster": "wiki"
+  }
+ },
+ "Q130383013": {
+  "kind": "game",
+  "qid": "Q130383013",
+  "kpId": null,
+  "titleRu": "Mouthwashing",
+  "titleEn": "Mouthwashing",
+  "year": 2024,
+  "desc": "Mouthwashing — компьютерная игра в жанре психологического хоррора с элементами приключений, разработанная студией Wrong Organ и выпущенная Critical Reflex в 2024 году. Повествование ведётся от первого лица и рассказывает о пяти членах экипажа грузового космического корабля «Тулпар», оказавшихся в ловушке после таинственной аварии. Капитан корабля, получивший тяжёлые травмы и утративший способность двигаться и говорить, обвиняется остальным экипажем в преднамеренном крушении судна по неизвестным причинам. В игре используется техника нелинейного повествования. Игровые критики высоко оценили нарративную составляющую и визуальный стиль игры.",
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": 8.2,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "wiki",
+   "ratings": "kp",
+   "poster": "wiki"
+  }
+ },
+ "game:Fears To Fantom": {
+  "kind": "game",
+  "titleRu": null,
+  "titleEn": "Fears To Fantom",
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {
+   "poster": "steam"
+  },
+  "posterFile": "game_Fears_To_Fantom.f80617ef.jpg"
+ },
+ "Q3392686": {
+  "kind": "film",
+  "qid": "Q3392686",
+  "kpId": 681258,
+  "titleRu": null,
+  "titleEn": "+1",
+  "year": 2013,
+  "desc": "Трое друзей из колледжа отправляются на главную вечеринку десятилетия. Каждый ищет там что-то свое: любовь, секс или новые знакомства. Но праздник превращается в хаос, когда по соседству с домом, где все веселятся, падает метеорит.",
+  "ratings": {
+   "kinopoisk": 5.003,
+   "imdb": 5.5,
+   "metacritic": 60
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q3392686.fc9782e6.jpg"
+ },
+ "film:КАК ИНТЕРНЕТ УБИЛ ПОКОЛЕНИЕ АЛЬФА": {
+  "kind": "film",
+  "titleRu": "КАК ИНТЕРНЕТ УБИЛ ПОКОЛЕНИЕ АЛЬФА",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:СЕРДЦА ЗА ЛЮБОВЬ": {
+  "kind": "film",
+  "titleRu": "СЕРДЦА ЗА ЛЮБОВЬ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q64744044": {
+  "kind": "film",
+  "qid": "Q64744044",
+  "kpId": 775273,
+  "titleRu": "Душа",
+  "titleEn": "Soul",
+  "year": 2020,
+  "desc": "Уже немолодой школьный учитель музыки Джо Гарднер всю жизнь мечтал выступать на сцене в составе джазового ансамбля. Однажды он успешно проходит прослушивание у легендарной саксофонистки и, возвращаясь домой вне себя от счастья, падает в люк и умирает. Теперь у Джо одна дорога — в Великое После, но он сбегает с идущего в вечность эскалатора и случайно попадает в Великое До. Тут новенькие души обретают себя, и у будущих людей зарождаются увлечения, мечты и интересы. Джо становится наставником упрямой души 22, которая уже много веков не может найти свою искру и отправиться на Землю.",
+  "ratings": {
+   "kinopoisk": 8.359,
+   "imdb": 8,
+   "metacritic": 83
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q64744044.561708b0.jpg"
+ },
+ "film:РЕКУРСИВНУЮ РЕАКЦИЮ": {
+  "kind": "film",
+  "titleRu": "РЕКУРСИВНУЮ РЕАКЦИЮ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q485983": {
+  "kind": "film",
+  "qid": "Q485983",
+  "kpId": 5273,
+  "titleRu": "Шрэк 2",
+  "titleEn": "Shrek 2",
+  "year": 2004,
+  "desc": "Шрэк и Фиона возвращаются после медового месяца и находят письмо от родителей Фионы с приглашением на ужин. Однако те не подозревают, что их дочь тоже стала огром! Вместе с Осликом счастливая пара отправляется в путешествие, полное неожиданностей, и попадает в круговорот событий, во время которых приобретает множество друзей…",
+  "ratings": {
+   "kinopoisk": 7.987,
+   "imdb": 7.4,
+   "metacritic": 75
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q485983.06cb576f.jpg"
+ },
+ "Q18402": {
+  "kind": "film",
+  "qid": "Q18402",
+  "kpId": 531,
+  "titleRu": "Дорога",
+  "titleEn": "La Strada",
+  "year": 1954,
+  "desc": "Фильм о нечеловеческой жестокости и человеческом страдании, о непростых отношениях немножко сумасшедшей, немножко святой, взъерошенной, смешной, неуклюжей и нежной Джельсомины и мрачного, массивного, грубого и звероподобного Дзампано - женщины и мужчины, совершенно чуждых друг другу, но волею судеб, неизвестно почему, оказавшихся вместе...",
+  "ratings": {
+   "kinopoisk": 7.994,
+   "imdb": 8,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q18402.088f71ca.jpg"
+ },
+ "series:Особняк милф": {
+  "kind": "series",
+  "titleRu": "Особняк милф",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q647546": {
+  "kind": "film",
+  "qid": "Q647546",
+  "kpId": 12244,
+  "titleRu": "Нокдаун",
+  "titleEn": "Cinderella Man",
+  "year": 2005,
+  "desc": "Потерпев несколько поражений кряду, подававший надежды боксёр-тяжеловес Джим Брэддок вынужден бросить спорт. Во времена Великой депрессии Брэддок берётся за любую работу, чтобы прокормить свою жену Мэй и детей. При этом он всё ещё надеется вернуться на ринг. И однажды ему предоставляется такой шанс. В последнюю минуту Джим заменяет другого боксёра и выходит на поединок с претендентом на титул чемпиона мира...",
+  "ratings": {
+   "kinopoisk": 8.2,
+   "imdb": 8,
+   "metacritic": 69
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q647546.3b8757a2.jpg"
+ },
+ "Q207816": {
+  "kind": "film",
+  "qid": "Q207816",
+  "kpId": 39577,
+  "titleRu": "Брюс Всемогущий",
+  "titleEn": "Bruce Almighty",
+  "year": 2003,
+  "desc": "Пессимист Брюс Нолан — популярный ведущий теленовостей. Его ничего не интересует: ни девушка Грейс, ни собственные репортажи. Но однажды Брюса увольняют. Разочарованный герой бросает вызов Богу и неожиданно получает ответ Всевышнего. Бог предлагает Брюсу поменяться с ним местами на неделю и посмотреть, сможет ли Брюс сделать мир хоть чуточку лучше.",
+  "ratings": {
+   "kinopoisk": 7.746,
+   "imdb": 6.8,
+   "metacritic": 46
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q207816.2f9611ec.jpg"
+ },
+ "film:МУЖСКОЕ ЖЕННСКОЕ: БАБУШКИНО СЕРДЦЕ": {
+  "kind": "film",
+  "titleRu": "МУЖСКОЕ ЖЕННСКОЕ: БАБУШКИНО СЕРДЦЕ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q588420": {
+  "kind": "film",
+  "qid": "Q588420",
+  "kpId": 477,
+  "titleRu": "Магнолия",
+  "titleEn": "Magnolia",
+  "year": 1999,
+  "desc": "Эта история произошла в долине Сан-Фернандо в дождливый день, когда на небе не было ни облачка. Благодаря вмешательству высших сил, а также нагромождению совпадений, случайностей, действий разных людей, их жизни и судьбы переплетутся и проникнут друг в друга в течение одного дня, финал которого будет незабываемым.",
+  "ratings": {
+   "kinopoisk": 7.374,
+   "imdb": 8,
+   "metacritic": 78
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q588420.c4eda69a.jpg"
+ },
+ "Q28179585": {
+  "kind": "film",
+  "qid": "Q28179585",
+  "kpId": 841472,
+  "titleRu": "Большой",
+  "titleEn": "Bolshoi",
+  "year": 2017,
+  "desc": "Юная и необычайно талантливая танцовщица Юля Ольшанская из маленького шахтёрского городка вытягивает «счастливый билет»: её замечает бывший артист балета Потоцкий и прочит будущее великой балерины, достойной главной сцены страны. Однако для того, чтобы стать бриллиантом, любому, даже самому выдающемуся алмазу, требуется огранка, и путь на легендарные подмостки Большого театра для Юли лежит через стены балетной школы, где опеку над непокорной провинциалкой берёт ещё более своенравная преподавательница Галина Михайловна Белецкая. Превращение в приму потребует невероятного самоотречения, и Юля на собственном опыте должна будет убедиться, что большой балет – это не только белизна пачек, золото лож и скольжение шёлковых лент. Но никакие препятствия не остановят того, у кого есть Большая Мечта.",
+  "ratings": {
+   "kinopoisk": 7.318,
+   "imdb": 6.8,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q28179585.5e8179a0.jpg"
+ },
+ "Q48980": {
+  "kind": "film",
+  "qid": "Q48980",
+  "kpId": 1721,
+  "titleRu": "Лжец, лжец",
+  "titleEn": "Liar Liar",
+  "year": 1997,
+  "desc": "Флетчер Рид - блестящий адвокат и неисправимый лжец. Он по привычке врет жене Одри, сыну Максу и учит клиентов подстраивать правду под свои нужды, перекраивать истину ради своей выгоды. Жена бросает Флетчера из-за его вредной привычки лгать, а сын Макс в свой день рождения, задувая свечи на торте, загадывает только одно желание: «Хочу, чтоб мой любимый папочка перестал постоянно врать». \r\n\r\nЖелание сбывается, и неожиданно для Флетчера Рида язык, который всегда был его рабочим инструментом, превращается в его главного врага. Флетчер начинает говорить обидную правду своему начальнику и клиентам. Эта правдивость может стоить адвокату работы! Но самое страшное ждет правдивого поневоле Флетчера в зале суда, когда будет слушаться дело о разводе его клиента. Без вранья он не сможет выиграть! Да, этот день своей жизни Флетчер Рид не забудет никогда...",
+  "ratings": {
+   "kinopoisk": 7.764,
+   "imdb": 6.9,
+   "metacritic": 70
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q48980.bb4a7610.jpg"
+ },
+ "film:САМАЯ ЖЕСТКАЯ СЕРИЯ С ДОНАТАМИ": {
+  "kind": "film",
+  "titleRu": "САМАЯ ЖЕСТКАЯ СЕРИЯ С ДОНАТАМИ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:МУЖСКОЕ ЖЕНСКОЕ: ИРКА - ЗОЛОТАЯ РУЧКА": {
+  "kind": "film",
+  "titleRu": "МУЖСКОЕ ЖЕНСКОЕ: ИРКА - ЗОЛОТАЯ РУЧКА",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:МУЖСКОЕ ЖЕНСКОЕ: НА СКЕЙТЕ ОТ СМЕРТИ": {
+  "kind": "film",
+  "titleRu": "МУЖСКОЕ ЖЕНСКОЕ: НА СКЕЙТЕ ОТ СМЕРТИ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:МУЖСКОЕ ЖЕНСКОЕ: НЕ ОТДАМ": {
+  "kind": "film",
+  "titleRu": "МУЖСКОЕ ЖЕНСКОЕ: НЕ ОТДАМ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:МУЖСКОЕ ЖЕНСКОЕ: МАУГЛИ": {
+  "kind": "film",
+  "titleRu": "МУЖСКОЕ ЖЕНСКОЕ: МАУГЛИ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:НА ПОКЕР!": {
+  "kind": "film",
+  "titleRu": "НА ПОКЕР!",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "film:ОДИН ИЗ ПАПИЩЕКОВ": {
+  "kind": "film",
+  "titleRu": "ОДИН ИЗ ПАПИЩЕКОВ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q46232777": {
+  "kind": "film",
+  "qid": "Q46232777",
+  "kpId": 1008254,
+  "titleRu": "Обмен",
+  "titleEn": null,
+  "year": 2017,
+  "desc": "Заключение сделки о передаче прав на собственность открывает всё новые и новые подробности правил и законов общества в совсем недалеком будущем. Ставки высоки как никогда. Статус — всё. Любовь — ничто.",
+  "ratings": {
+   "kinopoisk": 0,
+   "imdb": 6.4,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q46232777.3b856975.jpg"
+ },
+ "Q126800": {
+  "kind": "film",
+  "qid": "Q126800",
+  "kpId": 61359,
+  "titleRu": "Делай ноги",
+  "titleEn": "Happy Feet",
+  "year": 2006,
+  "desc": "В музыкальном мире императорских пингвинов, которые находят себе пару благодаря пению, рождается пингвинёнок по имени Мамбл, который не может издать ни одной ноты… зато может отплясывать ту ещё чечетку. Его родители, Норма Джин и Мемфис, в отчаянии, но надеются, что их лишённый музыкального слуха малыш перерастёт своё нелепое танцевальное увлечение. Однако пытаясь пропеть хоть какую-то мелодию, он не может перестать отбивать чечётку даже ради того, чтобы завоевать любовь своей возлюбленной Глории.",
+  "ratings": {
+   "kinopoisk": 6.679,
+   "imdb": 6.4,
+   "metacritic": 77
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q126800.f5965f2f.jpg"
+ },
+ "Q276392": {
+  "kind": "film",
+  "qid": "Q276392",
+  "kpId": 184417,
+  "titleRu": "Пила 3",
+  "titleEn": "Saw III",
+  "year": 2006,
+  "desc": "Изобретатель зловещих игр остается безнаказанным и в итоге бесследно исчезает вместе со своей сообщницей Амандой. В то время, как детективы тщетно пытаются выйти на его след, доктор Линн Денлон становится очередной жертвой этого маньяка.\n\nОднажды ночью Линн похищают и привозят в заброшенный склад, где она встречается с самим злодеем, находящимся на смертном одре. Ей приказывают сохранять жизнь этому безумцу, пока Джефф, еще одна из его жертв, не доведет до конца начатую с ним «игру»…",
+  "ratings": {
+   "kinopoisk": 7.038,
+   "imdb": 6.2,
+   "metacritic": 48
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q276392.9dadd8a0.jpg"
+ },
+ "film:НЯНЯ ОСОБОГО НАЗНАЧЕНИЯ": {
+  "kind": "film",
+  "titleRu": "НЯНЯ ОСОБОГО НАЗНАЧЕНИЯ",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "Q19427432": {
+  "kind": "film",
+  "qid": "Q19427432",
+  "kpId": 764347,
+  "titleRu": "Суперфорсаж!",
+  "titleEn": "Superfast!",
+  "year": 2015,
+  "desc": "Короли комедии снова в строю. На этот раз объектом пародии стала «форсажная» франшиза и прочие фильмы о гонках, ограблениях и крутых тачках. Шутки еще смешнее, ирония еще жестче, плотность гэгов - еще выше.",
+  "ratings": {
+   "kinopoisk": 4.901,
+   "imdb": 4.2,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q19427432.963f0b74.jpg"
+ },
+ "Q270410": {
+  "kind": "film",
+  "qid": "Q270410",
+  "kpId": 86206,
+  "titleRu": "Пила 2",
+  "titleEn": "Saw II",
+  "year": 2005,
+  "desc": "Во время расследования подробностей кровавых деяний неизвестного убийцы детектив Эрик Мэтьюс ловит себя на мысли, что они очень похожи на работу Пилы - известного маньяка, который смог исчезнуть, оставив за собой множество жертв. Метьюс оказывается прав. Пила снова взялся за своё ужасное ремесло. Только на этот раз вместо двух людей он запирает в комнате смерти с единственным способом выбраться живым сразу восемь человек. Восемь незнакомцев оказываются вынуждены вступить в игру сумасшедшего убийцы, ставками в которой будут их жизни.",
+  "ratings": {
+   "kinopoisk": 7.359,
+   "imdb": 6.6,
+   "metacritic": 40
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q270410.f7907d4d.jpg"
+ },
+ "Q859131": {
+  "kind": "film",
+  "qid": "Q859131",
+  "kpId": 220497,
+  "titleRu": "Полный облом",
+  "titleEn": "Big Nothing",
+  "year": 2006,
+  "desc": "Что может быть страшнее для школьного учителя Чарли Вуда, чем с треском вылететь с «любимой» работы и попрощаться с бандой малолетних спиногрызов? Только сидеть на шее у своей жены-копа, превратиться в домохозяйку и няню в одном лице. Или просиживать штаны в пыльной конторе до конца жизни. Но судьба всё же слабо улыбнулась патологическому неудачнику. Наверное, она просто хотела над ним посмеяться.",
+  "ratings": {
+   "kinopoisk": 7.096,
+   "imdb": 6.7,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q859131.bdcb16e0.jpg"
+ },
+ "Q612036": {
+  "kind": "film",
+  "qid": "Q612036",
+  "kpId": 251613,
+  "titleRu": "Пила",
+  "titleEn": "Saw",
+  "year": 2003,
+  "desc": "Дэвид, работавший санитаром в больнице, рассказывает детективу ужасающую историю о том, как был похищен и вынужден играть в мерзкую игру на выживание.",
+  "ratings": {
+   "kinopoisk": 7.711,
+   "imdb": 7.4,
+   "metacritic": 46
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q612036.4f6c752f.jpg"
+ },
+ "Q783880": {
+  "kind": "film",
+  "qid": "Q783880",
+  "kpId": 195941,
+  "titleRu": "Супергеройское кино",
+  "titleEn": "Superhero Movie",
+  "year": 2008,
+  "desc": "Сколько супергероев уже пытались спасти мир? Знакомьтесь с новым: его зовут Рик Райкер! Обычный школьник вдруг, неожиданным способом, обретает суперспособности. Вот если бы еще он знал, как их использовать. Так что берегитесь: Стрекозец спешит на помощь!",
+  "ratings": {
+   "kinopoisk": 5.102,
+   "imdb": 4.8,
+   "metacritic": 33
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q783880.5aefcfbe.jpg"
+ },
+ "Q761519": {
+  "kind": "film",
+  "qid": "Q761519",
+  "kpId": 590022,
+  "titleRu": "Синистер",
+  "titleEn": "Sinister",
+  "year": 2012,
+  "desc": "Автор детективов с семьёй переезжает в небольшой городок и селится в доме, где год назад развернулась леденящая душу трагедия — были убиты все жильцы. Писатель случайно находит видеозаписи, которые являются ключом к тайне преступления. Но ничто не дается даром: в доме начинают происходить жуткие вещи, и теперь под угрозой оказывается жизнь его близких.",
+  "ratings": {
+   "kinopoisk": 6.691,
+   "imdb": 6.8,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "wiki",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q761519.e7ad6a7c.jpg"
+ },
+ "Q18386312": {
+  "kind": "film",
+  "qid": "Q18386312",
+  "kpId": 838043,
+  "titleRu": "Визит",
+  "titleEn": "The Visit",
+  "year": 2015,
+  "desc": "Много лет назад она бежала из родительского дома без оглядки и с тех пор старалась не вспоминать события той самой ночи. Теперь у нее уже взрослые дети. Однажды они получают приглашения от бабушки и дедушки, которых никогда не видели, и решают нанести им визит.",
+  "ratings": {
+   "kinopoisk": 6.255,
+   "imdb": 6.3,
+   "metacritic": 55
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q18386312.e088480e.jpg"
+ },
+ "Q1783930": {
+  "kind": "film",
+  "qid": "Q1783930",
+  "kpId": 406403,
+  "titleRu": "Треугольник",
+  "titleEn": "Triangle",
+  "year": 2009,
+  "desc": "Грег приглашает подругу Джесс, молодую мать-одиночку, провести день на яхте в кругу своих друзей. Начавшийся сильный шторм переворачивает судно, и оставшиеся в живых вынуждены дожидаться помощи, цепляясь за перевернутый корпус яхты. Спасение приходит в виде огромного океанского лайнера, но судно оказывается пустым, а часы на борту остановились. Однако вскоре становится ясно: молодые люди не одни на этом огромном корабле, за ними кто-то неустанно следит.",
+  "ratings": {
+   "kinopoisk": 6.788,
+   "imdb": 6.9,
+   "metacritic": null
+  },
+  "sources": {
+   "titleRu": "kp",
+   "titleEn": "wiki",
+   "year": "wikidata",
+   "desc": "kp",
+   "ratings": "kp",
+   "poster": "kp"
+  },
+  "posterFile": "Q1783930.6cba5603.jpg"
+ },
+ "film:Сердца за любовь?": {
+  "kind": "film",
+  "titleRu": "Сердца за любовь?",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:Голые и напуганные": {
+  "kind": "series",
+  "titleRu": "Голые и напуганные",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:Сказки на ночь": {
+  "kind": "series",
+  "titleRu": "Сказки на ночь",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:Беременна по обману": {
+  "kind": "series",
+  "titleRu": "Беременна по обману",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:Фактор страха": {
+  "kind": "series",
+  "titleRu": "Фактор страха",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
+ },
+ "series:Идущие к чёрту": {
+  "kind": "series",
+  "titleRu": "Идущие к чёрту",
+  "titleEn": null,
+  "year": null,
+  "desc": null,
+  "ratings": {
+   "kinopoisk": null,
+   "imdb": null,
+   "metacritic": null
+  },
+  "sources": {}
  }
 }
