@@ -11552,19 +11552,20 @@
  "kp:467943": {
   "kind": "series",
   "kpId": 467943,
-  "titleRu": "Обычные сказки",
-  "titleEn": null,
-  "year": null,
+  "titleRu": "Битва экстрасенсов",
+  "titleEn": "The Battle of Psychics",
+  "year": 2007,
   "desc": "«Битва экстрасенсов» на канале ТНТ доказывает: сверхъестественные способности существуют, а их обладатели могут спасти жизнь, найти пропавшего ребенка, рассказать о прошлом и будущем и просто вернуть потерянный телефон.",
   "ratings": {
-   "kinopoisk": null,
-   "imdb": null,
+   "kinopoisk": 5.527,
+   "imdb": 3.9,
    "metacritic": null
   },
   "sources": {
-   "titleRu": "manual",
+   "titleRu": "kp",
    "poster": "kp",
-   "desc": "kp"
+   "desc": "kp",
+   "ratings": "kp"
   },
   "posterFile": "kp_467943.6f8a2bce.jpg"
  },
