@@ -1,3 +1,10 @@
 data/posters/
 data/imdb_ratings.tsv.gz
 node_modules/
+
+blogs/*/bootstrap.log
+blogs/*/bootstrap.err
+blogs/*/enrich.log
+blogs/*/enrich.err
+data/kp_server.log
+data/kp_server.err
